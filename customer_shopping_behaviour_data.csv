@@ -1,0 +1,651 @@
+﻿Average Purchase Amount,Average Review Rating,Category,Color,Count of Customer_ID,Sum of Age,Discount_Applied,Frequency_of_Purchases,Gender,Item_Purchased,Location,Number of customers,Payment_Method,Sum of Previous_Purchases,Promo_Code_Used,Sum of Purchase_Amount_USD,Sum of Review_Rating,Season,Shipping_Type,Size,Subscription_Status
+62,4.5,Accessories,Beige,1,19,No,Annually,Male,Belt,Wyoming,1,Cash,47,No,62,4.5,Fall,Store Pickup,XL,No
+26,3.700000047683716,Accessories,Beige,1,54,No,Fortnightly,Male,Belt,New Jersey,1,Debit Card,29,No,26,3.700000047683716,Summer,Store Pickup,L,No
+81,3.0999999046325684,Accessories,Beige,1,52,No,Quarterly,Female,Handbag,California,1,Venmo,33,No,81,3.0999999046325684,Spring,Store Pickup,M,No
+33,4.699999809265137,Accessories,Beige,1,48,Yes,Annually,Male,Jewelry,Washington,1,Bank Transfer,36,Yes,33,4.699999809265137,Winter,Store Pickup,XL,Yes
+78,3.5,Accessories,Beige,1,57,Yes,Bi-Weekly,Male,Handbag,Hawaii,1,Venmo,50,Yes,78,3.5,Winter,Store Pickup,L,No
+29,4.800000190734863,Accessories,Beige,1,43,Yes,Bi-Weekly,Male,Scarf,North Dakota,1,Debit Card,7,Yes,29,4.800000190734863,Spring,Store Pickup,M,Yes
+50,3.4000000953674316,Accessories,Beige,1,37,Yes,Fortnightly,Male,Backpack,Kentucky,1,Cash,19,Yes,50,3.4000000953674316,Summer,Store Pickup,L,Yes
+94,4.5,Accessories,Beige,1,43,Yes,Fortnightly,Male,Scarf,Oregon,1,PayPal,23,Yes,94,4.5,Fall,Store Pickup,L,No
+49,4.900000095367432,Accessories,Beige,1,54,Yes,Monthly,Male,Jewelry,Oklahoma,1,Bank Transfer,1,Yes,49,4.900000095367432,Summer,Store Pickup,M,No
+81,4.099999904632568,Accessories,Beige,1,35,Yes,Quarterly,Male,Belt,New Jersey,1,PayPal,26,Yes,81,4.099999904632568,Spring,Store Pickup,M,No
+69,3,Accessories,Beige,1,39,Yes,Weekly,Male,Backpack,New Hampshire,1,Bank Transfer,19,Yes,69,3,Fall,Store Pickup,XL,Yes
+95,3,Accessories,Black,1,66,No,Bi-Weekly,Male,Backpack,Arkansas,1,Debit Card,18,No,95,3,Summer,Store Pickup,M,No
+38,4,Accessories,Black,1,59,No,Bi-Weekly,Male,Jewelry,Alabama,1,Cash,16,No,38,4,Winter,Store Pickup,S,No
+81,3.9000000953674316,Accessories,Black,1,70,No,Monthly,Male,Jewelry,Vermont,1,Venmo,44,No,81,3.9000000953674316,Summer,Store Pickup,XL,No
+26,2.9000000953674316,Accessories,Black,1,37,No,Monthly,Male,Sunglasses,West Virginia,1,Venmo,41,No,26,2.9000000953674316,Fall,Store Pickup,L,No
+61,4,Accessories,Black,1,68,No,Quarterly,Female,Sunglasses,Missouri,1,Credit Card,36,No,61,4,Winter,Store Pickup,L,No
+31,2.5999999046325684,Accessories,Black,1,66,No,Weekly,Female,Gloves,Montana,1,Venmo,20,No,31,2.5999999046325684,Spring,Store Pickup,L,No
+76,2.799999952316284,Accessories,Black,1,51,No,Weekly,Male,Gloves,Wyoming,1,Debit Card,50,No,76,2.799999952316284,Winter,Store Pickup,S,No
+43,4.900000095367432,Accessories,Black,1,48,Yes,Annually,Male,Belt,Delaware,1,Bank Transfer,49,Yes,43,4.900000095367432,Winter,Store Pickup,M,No
+64,4.599999904632568,Accessories,Black,1,36,Yes,Every 3 Months,Male,Backpack,Nebraska,1,Debit Card,41,Yes,64,4.599999904632568,Winter,Store Pickup,M,Yes
+33,4.699999809265137,Accessories,Black,1,43,Yes,Monthly,Male,Scarf,California,1,Cash,19,Yes,33,4.699999809265137,Winter,Store Pickup,M,Yes
+91,4.5,Accessories,Black,1,58,Yes,Quarterly,Male,Backpack,Illinois,1,Credit Card,6,Yes,91,4.5,Winter,Store Pickup,L,Yes
+27,3.200000047683716,Accessories,Black,1,58,Yes,Weekly,Male,Sunglasses,Vermont,1,Bank Transfer,47,Yes,27,3.200000047683716,Summer,Store Pickup,M,No
+94,3.5,Accessories,Blue,1,18,No,Every 3 Months,Female,Backpack,Pennsylvania,1,Bank Transfer,10,No,94,3.5,Spring,Store Pickup,L,No
+32,2.9000000953674316,Accessories,Blue,1,32,No,Monthly,Female,Belt,Mississippi,1,Credit Card,41,No,32,2.9000000953674316,Summer,Store Pickup,M,No
+47,3.0999999046325684,Accessories,Blue,1,48,No,Monthly,Female,Handbag,Massachusetts,1,PayPal,19,No,47,3.0999999046325684,Summer,Store Pickup,M,No
+54,5,Accessories,Blue,1,44,No,Quarterly,Male,Scarf,Tennessee,1,Bank Transfer,25,No,54,5,Winter,Store Pickup,L,No
+20,4.599999904632568,Accessories,Blue,1,20,Yes,Bi-Weekly,Male,Hat,Utah,1,Debit Card,40,Yes,20,4.599999904632568,Summer,Store Pickup,S,Yes
+88,2.5,Accessories,Blue,1,65,Yes,Quarterly,Male,Gloves,Minnesota,1,Cash,37,Yes,88,2.5,Spring,Store Pickup,M,Yes
+43,3.9000000953674316,Accessories,Brown,1,26,No,Fortnightly,Female,Sunglasses,Connecticut,1,Credit Card,24,No,43,3.9000000953674316,Winter,Store Pickup,L,No
+44,3.0999999046325684,Accessories,Brown,1,65,No,Fortnightly,Male,Handbag,Alabama,1,Bank Transfer,44,No,44,3.0999999046325684,Summer,Store Pickup,L,No
+45,5,Accessories,Brown,1,36,No,Monthly,Male,Gloves,Utah,1,Credit Card,40,No,45,5,Spring,Store Pickup,M,No
+25,4.5,Accessories,Brown,1,23,No,Monthly,Male,Hat,Idaho,1,Cash,23,No,25,4.5,Spring,Store Pickup,M,No
+96,4.099999904632568,Accessories,Brown,1,63,No,Weekly,Male,Scarf,Tennessee,1,Cash,50,No,96,4.099999904632568,Summer,Store Pickup,M,No
+33,3.5,Accessories,Brown,1,64,Yes,Monthly,Male,Hat,New Hampshire,1,Debit Card,34,Yes,33,3.5,Fall,Store Pickup,S,Yes
+73,4.699999809265137,Accessories,Brown,1,41,Yes,Weekly,Male,Backpack,Mississippi,1,Credit Card,46,Yes,73,4.699999809265137,Summer,Store Pickup,XL,Yes
+43,3.299999952316284,Accessories,Charcoal,1,64,No,Annually,Female,Sunglasses,Minnesota,1,Venmo,21,No,43,3.299999952316284,Fall,Store Pickup,M,No
+84,3.4000000953674316,Accessories,Charcoal,1,28,No,Every 3 Months,Female,Handbag,North Dakota,1,Bank Transfer,2,No,84,3.4000000953674316,Summer,Store Pickup,XL,No
+31,2.799999952316284,Accessories,Charcoal,1,30,No,Fortnightly,Female,Belt,Illinois,1,Cash,46,No,31,2.799999952316284,Summer,Store Pickup,M,No
+34,4.599999904632568,Accessories,Charcoal,1,19,Yes,Every 3 Months,Male,Backpack,Nebraska,1,Debit Card,1,Yes,34,4.599999904632568,Summer,Store Pickup,M,Yes
+27,3.799999952316284,Accessories,Charcoal,1,58,Yes,Every 3 Months,Male,Gloves,New Hampshire,1,Bank Transfer,39,Yes,27,3.799999952316284,Fall,Store Pickup,M,Yes
+41,3.700000047683716,Accessories,Charcoal,1,40,Yes,Fortnightly,Male,Handbag,Colorado,1,Cash,3,Yes,41,3.700000047683716,Summer,Store Pickup,XL,No
+93,4.800000190734863,Accessories,Cyan,1,38,No,Annually,Female,Jewelry,Virginia,1,Venmo,43,No,93,4.800000190734863,Winter,Store Pickup,S,No
+54,4.5,Accessories,Cyan,1,68,No,Bi-Weekly,Male,Gloves,South Carolina,1,Cash,26,No,54,4.5,Spring,Store Pickup,M,No
+99,3.5999999046325684,Accessories,Cyan,1,20,No,Fortnightly,Female,Gloves,Nebraska,1,Cash,35,No,99,3.5999999046325684,Fall,Store Pickup,M,No
+58,4.900000095367432,Accessories,Cyan,1,25,No,Fortnightly,Male,Backpack,Georgia,1,Debit Card,39,No,58,4.900000095367432,Spring,Store Pickup,M,No
+33,2.700000047683716,Accessories,Cyan,1,54,No,Quarterly,Male,Backpack,Idaho,1,PayPal,1,No,33,2.700000047683716,Summer,Store Pickup,M,No
+52,3.4000000953674316,Accessories,Cyan,1,48,No,Weekly,Female,Belt,Rhode Island,1,Debit Card,50,No,52,3.4000000953674316,Winter,Store Pickup,L,No
+42,3.299999952316284,Accessories,Cyan,1,21,Yes,Annually,Male,Jewelry,Georgia,1,Venmo,40,Yes,42,3.299999952316284,Spring,Store Pickup,L,No
+76,3.4000000953674316,Accessories,Cyan,1,43,Yes,Fortnightly,Male,Hat,New Hampshire,1,Cash,33,Yes,76,3.4000000953674316,Winter,Store Pickup,L,Yes
+79,4.199999809265137,Accessories,Gold,1,24,No,Every 3 Months,Male,Belt,North Dakota,1,PayPal,44,No,79,4.199999809265137,Winter,Store Pickup,M,No
+25,4.300000190734863,Accessories,Gold,1,19,No,Fortnightly,Male,Sunglasses,Michigan,1,Cash,24,No,25,4.300000190734863,Spring,Store Pickup,XL,No
+97,4.5,Accessories,Gold,1,60,No,Weekly,Male,Backpack,Arkansas,1,Bank Transfer,20,No,97,4.5,Fall,Store Pickup,S,No
+94,3.9000000953674316,Accessories,Gold,1,43,Yes,Bi-Weekly,Male,Backpack,New York,1,Debit Card,5,Yes,94,3.9000000953674316,Winter,Store Pickup,M,Yes
+53,3,Accessories,Gold,1,49,Yes,Monthly,Male,Handbag,Kentucky,1,PayPal,8,Yes,53,3,Winter,Store Pickup,S,Yes
+68,4.300000190734863,Accessories,Gray,1,51,No,Bi-Weekly,Male,Jewelry,Kansas,1,Debit Card,49,No,68,4.300000190734863,Summer,Store Pickup,M,No
+98,4.199999809265137,Accessories,Gray,1,42,No,Bi-Weekly,Male,Jewelry,Ohio,1,Venmo,50,No,98,4.199999809265137,Summer,Store Pickup,L,No
+52,4.199999809265137,Accessories,Gray,1,49,No,Monthly,Female,Handbag,Pennsylvania,1,PayPal,35,No,52,4.199999809265137,Spring,Store Pickup,S,No
+51,3.700000047683716,Accessories,Gray,1,40,No,Weekly,Female,Sunglasses,Texas,1,Venmo,1,No,51,3.700000047683716,Spring,Store Pickup,M,No
+90,2.5999999046325684,Accessories,Gray,1,37,Yes,Annually,Male,Gloves,Wyoming,1,Debit Card,47,Yes,90,2.5999999046325684,Fall,Store Pickup,M,Yes
+57,4.300000190734863,Accessories,Gray,1,70,Yes,Annually,Male,Jewelry,Kentucky,1,PayPal,42,Yes,57,4.300000190734863,Spring,Store Pickup,S,No
+51,2.5999999046325684,Accessories,Gray,1,27,Yes,Annually,Male,Jewelry,Nebraska,1,Debit Card,6,Yes,51,2.5999999046325684,Summer,Store Pickup,L,Yes
+21,4.699999809265137,Accessories,Gray,1,25,Yes,Fortnightly,Male,Handbag,Nevada,1,PayPal,30,Yes,21,4.699999809265137,Spring,Store Pickup,S,Yes
+94,4.900000095367432,Accessories,Gray,1,43,Yes,Monthly,Male,Hat,Texas,1,Cash,25,Yes,94,4.900000095367432,Fall,Store Pickup,L,Yes
+25,2.5999999046325684,Accessories,Gray,1,43,Yes,Quarterly,Male,Belt,Indiana,1,Credit Card,14,Yes,25,2.5999999046325684,Spring,Store Pickup,L,No
+36,4,Accessories,Green,1,18,No,Monthly,Female,Scarf,Pennsylvania,1,Cash,1,No,36,4,Winter,Store Pickup,S,No
+46,4.099999904632568,Accessories,Green,1,22,No,Quarterly,Female,Hat,Ohio,1,Cash,24,No,46,4.099999904632568,Winter,Store Pickup,M,No
+40,3.5,Accessories,Green,1,44,No,Quarterly,Male,Scarf,Indiana,1,Cash,42,No,40,3.5,Winter,Store Pickup,XL,No
+68,4,Accessories,Green,1,56,Yes,Bi-Weekly,Male,Hat,Ohio,1,Cash,3,Yes,68,4,Fall,Store Pickup,M,Yes
+97,3.299999952316284,Accessories,Indigo,1,59,No,Annually,Female,Belt,Nevada,1,Credit Card,18,No,97,3.299999952316284,Winter,Store Pickup,M,No
+26,3.0999999046325684,Accessories,Indigo,1,23,No,Bi-Weekly,Female,Jewelry,West Virginia,1,Venmo,5,No,26,3.0999999046325684,Winter,Store Pickup,L,No
+57,3.5,Accessories,Indigo,1,58,No,Bi-Weekly,Male,Jewelry,Nebraska,1,Venmo,36,No,57,3.5,Spring,Store Pickup,M,No
+37,3.200000047683716,Accessories,Indigo,1,46,No,Monthly,Female,Scarf,Idaho,1,PayPal,43,No,37,3.200000047683716,Spring,Store Pickup,S,No
+99,4.099999904632568,Accessories,Indigo,1,38,Yes,Bi-Weekly,Male,Gloves,New Jersey,1,Bank Transfer,2,Yes,99,4.099999904632568,Fall,Store Pickup,M,No
+77,2.9000000953674316,Accessories,Indigo,1,24,Yes,Bi-Weekly,Male,Handbag,Illinois,1,Cash,35,Yes,77,2.9000000953674316,Winter,Store Pickup,S,No
+64,2.5999999046325684,Accessories,Indigo,1,41,Yes,Bi-Weekly,Male,Jewelry,Mississippi,1,Bank Transfer,1,Yes,64,2.5999999046325684,Fall,Store Pickup,M,No
+30,2.799999952316284,Accessories,Indigo,1,41,Yes,Every 3 Months,Male,Handbag,Wisconsin,1,Bank Transfer,14,Yes,30,2.799999952316284,Summer,Store Pickup,M,Yes
+44,3,Accessories,Indigo,1,30,Yes,Fortnightly,Male,Scarf,Vermont,1,Credit Card,12,Yes,44,3,Winter,Store Pickup,L,Yes
+41,2.9000000953674316,Accessories,Indigo,1,66,Yes,Monthly,Male,Scarf,Arizona,1,Bank Transfer,22,Yes,41,2.9000000953674316,Fall,Store Pickup,M,Yes
+82,2.5999999046325684,Accessories,Indigo,1,18,Yes,Quarterly,Male,Sunglasses,Michigan,1,Cash,17,Yes,82,2.5999999046325684,Summer,Store Pickup,M,No
+42,2.700000047683716,Accessories,Indigo,1,53,Yes,Quarterly,Male,Sunglasses,West Virginia,1,Credit Card,24,Yes,42,2.700000047683716,Winter,Store Pickup,M,Yes
+93,3.9000000953674316,Accessories,Lavender,1,37,No,Annually,Male,Jewelry,Vermont,1,PayPal,28,No,93,3.9000000953674316,Winter,Store Pickup,M,No
+71,4.599999904632568,Accessories,Lavender,1,55,No,Bi-Weekly,Female,Handbag,Louisiana,1,PayPal,15,No,71,4.599999904632568,Fall,Store Pickup,S,No
+76,2.5999999046325684,Accessories,Lavender,1,57,No,Bi-Weekly,Female,Sunglasses,Maine,1,Bank Transfer,28,No,76,2.5999999046325684,Winter,Store Pickup,L,No
+76,4,Accessories,Lavender,1,61,No,Bi-Weekly,Female,Sunglasses,Tennessee,1,Debit Card,49,No,76,4,Fall,Store Pickup,M,No
+58,4.400000095367432,Accessories,Lavender,1,50,No,Quarterly,Female,Handbag,Connecticut,1,PayPal,30,No,58,4.400000095367432,Summer,Store Pickup,M,No
+73,4.800000190734863,Accessories,Lavender,1,65,No,Weekly,Female,Hat,Oklahoma,1,Cash,29,No,73,4.800000190734863,Winter,Store Pickup,M,No
+57,3.4000000953674316,Accessories,Lavender,1,36,No,Weekly,Male,Sunglasses,Hawaii,1,Credit Card,5,No,57,3.4000000953674316,Spring,Store Pickup,M,No
+41,4.900000095367432,Accessories,Lavender,1,61,Yes,Annually,Male,Handbag,Nebraska,1,Cash,7,Yes,41,4.900000095367432,Winter,Store Pickup,M,Yes
+83,4.900000095367432,Accessories,Lavender,1,52,Yes,Bi-Weekly,Male,Scarf,South Dakota,1,Debit Card,32,Yes,83,4.900000095367432,Fall,Store Pickup,S,Yes
+25,3.4000000953674316,Accessories,Lavender,1,66,Yes,Every 3 Months,Male,Jewelry,Maine,1,Credit Card,3,Yes,25,3.4000000953674316,Winter,Store Pickup,L,Yes
+69,3.700000047683716,Accessories,Lavender,1,25,Yes,Fortnightly,Male,Scarf,Ohio,1,PayPal,19,Yes,69,3.700000047683716,Fall,Store Pickup,L,Yes
+77,4.5,Accessories,Lavender,1,25,Yes,Monthly,Male,Sunglasses,California,1,Credit Card,24,Yes,77,4.5,Spring,Store Pickup,L,No
+43,4.199999809265137,Accessories,Lavender,1,59,Yes,Weekly,Male,Backpack,Idaho,1,Venmo,10,Yes,43,4.199999809265137,Fall,Store Pickup,L,Yes
+27,3.5,Accessories,Magenta,1,58,No,Annually,Female,Hat,Minnesota,1,Venmo,40,No,27,3.5,Fall,Store Pickup,M,No
+35,3.4000000953674316,Accessories,Magenta,1,33,No,Annually,Female,Scarf,Nebraska,1,PayPal,49,No,35,3.4000000953674316,Winter,Store Pickup,M,No
+57,3.700000047683716,Accessories,Magenta,1,66,No,Every 3 Months,Male,Gloves,Ohio,1,PayPal,20,No,57,3.700000047683716,Winter,Store Pickup,L,No
+21,3.9000000953674316,Accessories,Magenta,1,23,No,Fortnightly,Male,Gloves,Minnesota,1,Bank Transfer,14,No,21,3.9000000953674316,Fall,Store Pickup,M,No
+29,3.799999952316284,Accessories,Magenta,1,27,No,Monthly,Female,Handbag,Kentucky,1,Debit Card,23,No,29,3.799999952316284,Fall,Store Pickup,S,No
+57,4.599999904632568,Accessories,Magenta,1,36,No,Quarterly,Female,Handbag,Arizona,1,PayPal,42,No,57,4.599999904632568,Fall,Store Pickup,M,No
+67,3.5,Accessories,Magenta,1,67,No,Quarterly,Male,Sunglasses,Idaho,1,Debit Card,20,No,67,3.5,Winter,Store Pickup,M,No
+78,3.799999952316284,Accessories,Magenta,1,45,No,Quarterly,Male,Sunglasses,Massachusetts,1,Cash,1,No,78,3.799999952316284,Spring,Store Pickup,L,No
+71,3,Accessories,Magenta,1,40,No,Weekly,Female,Belt,New York,1,Venmo,30,No,71,3,Spring,Store Pickup,M,No
+67,4.699999809265137,Accessories,Magenta,1,55,Yes,Annually,Male,Sunglasses,Massachusetts,1,PayPal,33,Yes,67,4.699999809265137,Summer,Store Pickup,S,No
+69,4.5,Accessories,Magenta,1,28,Yes,Fortnightly,Male,Handbag,Indiana,1,Bank Transfer,18,Yes,69,4.5,Winter,Store Pickup,M,No
+68,4.400000095367432,Accessories,Magenta,1,28,Yes,Quarterly,Male,Hat,North Carolina,1,Bank Transfer,6,Yes,68,4.400000095367432,Summer,Store Pickup,XL,Yes
+31,4,Accessories,Maroon,1,48,No,Annually,Female,Belt,Wyoming,1,Bank Transfer,4,No,31,4,Fall,Store Pickup,M,No
+25,3.799999952316284,Accessories,Maroon,1,61,No,Every 3 Months,Male,Gloves,Maryland,1,Cash,6,No,25,3.799999952316284,Fall,Store Pickup,M,No
+25,4.5,Accessories,Maroon,1,69,No,Every 3 Months,Male,Jewelry,Vermont,1,Venmo,28,No,25,4.5,Summer,Store Pickup,M,No
+47,4.900000095367432,Accessories,Maroon,1,39,No,Monthly,Male,Scarf,North Carolina,1,Debit Card,40,No,47,4.900000095367432,Summer,Store Pickup,M,No
+84,4.599999904632568,Accessories,Maroon,1,45,No,Quarterly,Female,Sunglasses,Texas,1,PayPal,22,No,84,4.599999904632568,Fall,Store Pickup,S,No
+44,2.5999999046325684,Accessories,Maroon,1,48,Yes,Every 3 Months,Male,Belt,Colorado,1,PayPal,15,Yes,44,2.5999999046325684,Spring,Store Pickup,S,Yes
+38,4.699999809265137,Accessories,Maroon,1,32,Yes,Fortnightly,Male,Backpack,West Virginia,1,Cash,5,Yes,38,4.699999809265137,Summer,Store Pickup,M,Yes
+21,2.5999999046325684,Accessories,Maroon,1,43,Yes,Quarterly,Male,Hat,Mississippi,1,Bank Transfer,34,Yes,21,2.5999999046325684,Winter,Store Pickup,XL,No
+49,2.9000000953674316,Accessories,Olive,1,42,No,Annually,Male,Backpack,Colorado,1,Cash,1,No,49,2.9000000953674316,Spring,Store Pickup,S,No
+56,4.699999809265137,Accessories,Olive,1,21,No,Bi-Weekly,Female,Handbag,Arkansas,1,Venmo,45,No,56,4.699999809265137,Spring,Store Pickup,M,No
+81,4,Accessories,Olive,1,23,No,Bi-Weekly,Male,Scarf,Louisiana,1,Bank Transfer,24,No,81,4,Spring,Store Pickup,L,No
+42,2.700000047683716,Accessories,Olive,1,54,No,Every 3 Months,Male,Jewelry,Illinois,1,Debit Card,6,No,42,2.700000047683716,Spring,Store Pickup,S,No
+53,2.5999999046325684,Accessories,Olive,1,36,No,Monthly,Male,Scarf,South Carolina,1,Venmo,10,No,53,2.5999999046325684,Fall,Store Pickup,XL,No
+55,2.5999999046325684,Accessories,Olive,1,51,No,Weekly,Female,Backpack,Oklahoma,1,Bank Transfer,24,No,55,2.5999999046325684,Fall,Store Pickup,M,No
+45,2.9000000953674316,Accessories,Olive,1,54,Yes,Annually,Male,Handbag,Montana,1,Debit Card,14,Yes,45,2.9000000953674316,Summer,Store Pickup,S,Yes
+81,3.0999999046325684,Accessories,Olive,1,19,Yes,Annually,Male,Hat,Nebraska,1,Venmo,48,Yes,81,3.0999999046325684,Winter,Store Pickup,M,No
+37,4.199999809265137,Accessories,Olive,1,47,Yes,Bi-Weekly,Male,Backpack,Kentucky,1,Debit Card,6,Yes,37,4.199999809265137,Fall,Store Pickup,L,Yes
+81,4.5,Accessories,Olive,1,29,Yes,Bi-Weekly,Male,Belt,New Jersey,1,Venmo,8,Yes,81,4.5,Spring,Store Pickup,M,No
+27,4.699999809265137,Accessories,Olive,1,30,Yes,Fortnightly,Male,Jewelry,Ohio,1,Debit Card,16,Yes,27,4.699999809265137,Winter,Store Pickup,XL,No
+69,,Accessories,Olive,1,29,Yes,Quarterly,Male,Sunglasses,Michigan,1,Credit Card,31,Yes,69,,Fall,Store Pickup,M,Yes
+62,3.299999952316284,Accessories,Olive,1,62,Yes,Weekly,Male,Belt,Georgia,1,PayPal,12,Yes,62,3.299999952316284,Summer,Store Pickup,M,Yes
+63,2.9000000953674316,Accessories,Orange,1,60,No,Every 3 Months,Male,Backpack,Arizona,1,PayPal,47,No,63,2.9000000953674316,Summer,Store Pickup,L,No
+74,3.799999952316284,Accessories,Orange,1,41,No,Fortnightly,Female,Handbag,West Virginia,1,Bank Transfer,3,No,74,3.799999952316284,Winter,Store Pickup,S,No
+59,2.700000047683716,Accessories,Orange,1,41,No,Fortnightly,Male,Scarf,Mississippi,1,Credit Card,26,No,59,2.700000047683716,Fall,Store Pickup,L,No
+25,3.0999999046325684,Accessories,Orange,1,30,No,Fortnightly,Male,Sunglasses,Virginia,1,PayPal,35,No,25,3.0999999046325684,Summer,Store Pickup,M,No
+90,4.900000095367432,Accessories,Orange,1,31,Yes,Annually,Male,Backpack,South Dakota,1,Credit Card,8,Yes,90,4.900000095367432,Summer,Store Pickup,S,No
+68,4.699999809265137,Accessories,Orange,1,55,Yes,Every 3 Months,Male,Scarf,Texas,1,Credit Card,21,Yes,68,4.699999809265137,Winter,Store Pickup,M,Yes
+72,2.5999999046325684,Accessories,Orange,1,59,Yes,Fortnightly,Male,Scarf,Illinois,1,Debit Card,8,Yes,72,2.5999999046325684,Fall,Store Pickup,L,No
+82,2.700000047683716,Accessories,Orange,1,22,Yes,Quarterly,Male,Handbag,Washington,1,PayPal,10,Yes,82,2.700000047683716,Summer,Store Pickup,M,Yes
+93,3.799999952316284,Accessories,Peach,1,25,No,Annually,Female,Jewelry,Iowa,1,PayPal,15,No,93,3.799999952316284,Spring,Store Pickup,M,No
+87,4,Accessories,Peach,1,39,No,Annually,Male,Belt,Iowa,1,Bank Transfer,48,No,87,4,Summer,Store Pickup,L,No
+82,5,Accessories,Peach,1,22,No,Bi-Weekly,Female,Hat,Texas,1,Bank Transfer,22,No,82,5,Fall,Store Pickup,XL,No
+98,2.5999999046325684,Accessories,Peach,1,45,No,Monthly,Female,Belt,Illinois,1,Credit Card,17,No,98,2.5999999046325684,Fall,Store Pickup,S,No
+50,2.9000000953674316,Accessories,Peach,1,48,No,Monthly,Female,Hat,New Jersey,1,Credit Card,26,No,50,2.9000000953674316,Fall,Store Pickup,M,No
+52,2.799999952316284,Accessories,Peach,1,55,No,Quarterly,Female,Scarf,Maryland,1,Bank Transfer,45,No,52,2.799999952316284,Spring,Store Pickup,M,No
+82,4.800000190734863,Accessories,Peach,1,30,No,Weekly,Male,Jewelry,Georgia,1,Credit Card,45,No,82,4.800000190734863,Winter,Store Pickup,M,No
+65,3.5999999046325684,Accessories,Peach,1,22,Yes,Annually,Male,Scarf,New Mexico,1,Venmo,45,Yes,65,3.5999999046325684,Fall,Store Pickup,M,Yes
+20,3.5999999046325684,Accessories,Peach,1,26,Yes,Bi-Weekly,Male,Backpack,Georgia,1,Credit Card,20,Yes,20,3.5999999046325684,Spring,Store Pickup,M,No
+93,4.400000095367432,Accessories,Peach,1,30,Yes,Every 3 Months,Male,Handbag,Nevada,1,Debit Card,11,Yes,93,4.400000095367432,Fall,Store Pickup,L,Yes
+96,4.5,Accessories,Peach,1,54,Yes,Monthly,Male,Scarf,Connecticut,1,Bank Transfer,36,Yes,96,4.5,Spring,Store Pickup,S,Yes
+59,4.699999809265137,Accessories,Peach,1,25,Yes,Monthly,Male,Scarf,Michigan,1,Venmo,44,Yes,59,4.699999809265137,Summer,Store Pickup,S,Yes
+39,3.5999999046325684,Accessories,Pink,1,36,No,Monthly,Male,Belt,Montana,1,Venmo,38,No,39,3.5999999046325684,Summer,Store Pickup,L,No
+89,2.9000000953674316,Accessories,Pink,1,62,No,Quarterly,Female,Hat,Louisiana,1,Bank Transfer,4,No,89,2.9000000953674316,Winter,Store Pickup,L,No
+85,2.5999999046325684,Accessories,Pink,1,41,Yes,Annually,Male,Scarf,New Mexico,1,PayPal,29,Yes,85,2.5999999046325684,Spring,Store Pickup,M,Yes
+22,2.5,Accessories,Pink,1,19,Yes,Every 3 Months,Male,Scarf,Nebraska,1,Venmo,25,Yes,22,2.5,Spring,Store Pickup,XL,No
+92,4.400000095367432,Accessories,Pink,1,44,Yes,Every 3 Months,Male,Sunglasses,West Virginia,1,Credit Card,11,Yes,92,4.400000095367432,Fall,Store Pickup,S,Yes
+30,4.699999809265137,Accessories,Pink,1,42,Yes,Monthly,Male,Jewelry,Mississippi,1,Debit Card,15,Yes,30,4.699999809265137,Fall,Store Pickup,S,No
+41,2.9000000953674316,Accessories,Pink,1,36,Yes,Quarterly,Male,Gloves,North Carolina,1,Debit Card,3,Yes,41,2.9000000953674316,Spring,Store Pickup,L,Yes
+66,4.099999904632568,Accessories,Pink,1,32,Yes,Weekly,Male,Jewelry,Alaska,1,Cash,47,Yes,66,4.099999904632568,Spring,Store Pickup,S,No
+65,4.199999809265137,Accessories,Purple,1,46,No,Every 3 Months,Female,Handbag,Colorado,1,Credit Card,33,No,65,4.199999809265137,Spring,Store Pickup,S,No
+96,2.799999952316284,Accessories,Purple,1,38,Yes,Annually,Male,Gloves,Alabama,1,Debit Card,10,Yes,96,2.799999952316284,Summer,Store Pickup,XL,Yes
+93,4,Accessories,Purple,1,61,Yes,Annually,Male,Hat,Tennessee,1,Debit Card,18,Yes,93,4,Summer,Store Pickup,M,No
+67,2.5,Accessories,Purple,1,36,Yes,Monthly,Male,Hat,Massachusetts,1,Cash,38,Yes,67,2.5,Fall,Store Pickup,S,No
+78,5,Accessories,Purple,1,69,Yes,Monthly,Male,Jewelry,Ohio,1,Bank Transfer,39,Yes,78,5,Spring,Store Pickup,S,Yes
+96,4,Accessories,Purple,1,22,Yes,Monthly,Male,Scarf,California,1,Credit Card,33,Yes,96,4,Spring,Store Pickup,XL,No
+33,2.799999952316284,Accessories,Purple,1,45,Yes,Quarterly,Male,Sunglasses,Virginia,1,Cash,24,Yes,33,2.799999952316284,Fall,Store Pickup,S,Yes
+75,4.199999809265137,Accessories,Red,1,22,No,Annually,Male,Gloves,Illinois,1,Cash,25,No,75,4.199999809265137,Fall,Store Pickup,L,No
+94,4.900000095367432,Accessories,Red,1,49,No,Bi-Weekly,Male,Belt,Texas,1,Debit Card,8,No,94,4.900000095367432,Winter,Store Pickup,M,No
+48,4.300000190734863,Accessories,Red,1,35,No,Every 3 Months,Female,Handbag,Colorado,1,Venmo,16,No,48,4.300000190734863,Spring,Store Pickup,M,No
+34,3.0999999046325684,Accessories,Red,1,21,No,Fortnightly,Female,Belt,Maine,1,Debit Card,5,No,34,3.0999999046325684,Fall,Store Pickup,L,No
+27,2.5999999046325684,Accessories,Red,1,35,No,Fortnightly,Male,Jewelry,Indiana,1,Bank Transfer,42,No,27,2.5999999046325684,Fall,Store Pickup,XL,No
+90,3.0999999046325684,Accessories,Red,1,49,No,Monthly,Female,Belt,North Carolina,1,PayPal,17,No,90,3.0999999046325684,Fall,Store Pickup,M,No
+79,2.799999952316284,Accessories,Red,1,35,No,Quarterly,Female,Jewelry,Georgia,1,PayPal,29,No,79,2.799999952316284,Fall,Store Pickup,M,No
+48,4.699999809265137,Accessories,Red,1,28,Yes,Bi-Weekly,Male,Backpack,Nevada,1,Cash,19,Yes,48,4.699999809265137,Summer,Store Pickup,XL,Yes
+27,4.400000095367432,Accessories,Red,1,51,Yes,Weekly,Male,Sunglasses,Kansas,1,Credit Card,45,Yes,27,4.400000095367432,Fall,Store Pickup,S,Yes
+82,3.0999999046325684,Accessories,Silver,1,58,No,Annually,Male,Jewelry,Connecticut,1,Cash,32,No,82,3.0999999046325684,Summer,Store Pickup,M,No
+84,3.200000047683716,Accessories,Silver,1,22,No,Weekly,Female,Jewelry,Illinois,1,PayPal,37,No,84,3.200000047683716,Winter,Store Pickup,L,No
+40,3.299999952316284,Accessories,Silver,1,38,Yes,Quarterly,Male,Belt,Wisconsin,1,PayPal,45,Yes,40,3.299999952316284,Summer,Store Pickup,M,Yes
+32,4.099999904632568,Accessories,Teal,1,23,No,Annually,Female,Gloves,Wisconsin,1,Bank Transfer,37,No,32,4.099999904632568,Winter,Store Pickup,M,No
+96,3.4000000953674316,Accessories,Teal,1,35,No,Annually,Male,Hat,Mississippi,1,Debit Card,10,No,96,3.4000000953674316,Summer,Store Pickup,M,No
+85,3.799999952316284,Accessories,Teal,1,53,No,Bi-Weekly,Female,Handbag,Kentucky,1,Debit Card,38,No,85,3.799999952316284,Spring,Store Pickup,S,No
+25,4.400000095367432,Accessories,Teal,1,60,No,Bi-Weekly,Male,Jewelry,Alabama,1,Venmo,13,No,25,4.400000095367432,Summer,Store Pickup,XL,No
+71,2.700000047683716,Accessories,Teal,1,26,No,Bi-Weekly,Male,Scarf,New Hampshire,1,PayPal,37,No,71,2.700000047683716,Summer,Store Pickup,L,No
+80,2.799999952316284,Accessories,Teal,1,70,No,Monthly,Female,Scarf,South Dakota,1,Bank Transfer,30,No,80,2.799999952316284,Summer,Store Pickup,L,No
+24,3.5999999046325684,Accessories,Teal,1,47,Yes,Annually,Male,Sunglasses,Nebraska,1,PayPal,28,Yes,24,3.5999999046325684,Spring,Store Pickup,M,Yes
+26,3,Accessories,Teal,1,46,Yes,Bi-Weekly,Male,Scarf,New York,1,Credit Card,21,Yes,26,3,Spring,Store Pickup,L,Yes
+97,3.299999952316284,Accessories,Teal,1,35,Yes,Weekly,Male,Backpack,Washington,1,Cash,43,Yes,97,3.299999952316284,Summer,Store Pickup,L,No
+98,4.400000095367432,Accessories,Teal,1,29,Yes,Weekly,Male,Hat,Iowa,1,PayPal,24,Yes,98,4.400000095367432,Spring,Store Pickup,M,Yes
+51,5,Accessories,Turquoise,1,61,No,Weekly,Female,Handbag,Tennessee,1,Cash,40,No,51,5,Summer,Store Pickup,L,No
+74,3,Accessories,Turquoise,1,54,Yes,Bi-Weekly,Male,Sunglasses,California,1,PayPal,31,Yes,74,3,Summer,Store Pickup,M,Yes
+85,3,Accessories,Turquoise,1,25,Yes,Fortnightly,Male,Jewelry,Utah,1,Venmo,23,Yes,85,3,Winter,Store Pickup,M,No
+40,2.5999999046325684,Accessories,Turquoise,1,18,Yes,Quarterly,Male,Gloves,Virginia,1,Cash,6,Yes,40,2.5999999046325684,Winter,Store Pickup,L,No
+24,3.5,Accessories,Turquoise,1,39,Yes,Weekly,Male,Hat,Indiana,1,Cash,11,Yes,24,3.5,Spring,Store Pickup,L,No
+84,2.9000000953674316,Accessories,Violet,1,59,No,Bi-Weekly,Male,Gloves,Massachusetts,1,Cash,32,No,84,2.9000000953674316,Fall,Store Pickup,M,No
+26,3.700000047683716,Accessories,Violet,1,50,No,Bi-Weekly,Male,Gloves,North Carolina,1,PayPal,31,No,26,3.700000047683716,Summer,Store Pickup,S,No
+85,3.4000000953674316,Accessories,Violet,1,44,No,Bi-Weekly,Male,Scarf,Rhode Island,1,Bank Transfer,16,No,85,3.4000000953674316,Winter,Store Pickup,M,No
+74,3.4000000953674316,Accessories,Violet,1,46,No,Every 3 Months,Male,Scarf,Wyoming,1,Cash,33,No,74,3.4000000953674316,Spring,Store Pickup,M,No
+72,3.9000000953674316,Accessories,Violet,1,46,Yes,Bi-Weekly,Male,Gloves,Nebraska,1,Cash,42,Yes,72,3.9000000953674316,Winter,Store Pickup,XL,No
+90,3.9000000953674316,Accessories,Violet,1,23,Yes,Bi-Weekly,Male,Gloves,West Virginia,1,Cash,22,Yes,90,3.9000000953674316,Winter,Store Pickup,L,Yes
+58,4.199999809265137,Accessories,Violet,1,38,Yes,Fortnightly,Male,Scarf,Connecticut,1,Cash,27,Yes,58,4.199999809265137,Spring,Store Pickup,M,No
+23,4.699999809265137,Accessories,Violet,1,38,Yes,Quarterly,Male,Scarf,Indiana,1,Cash,11,Yes,23,4.699999809265137,Spring,Store Pickup,XL,Yes
+88,2.5999999046325684,Accessories,Violet,1,29,Yes,Weekly,Male,Backpack,Wyoming,1,Debit Card,30,Yes,88,2.5999999046325684,Winter,Store Pickup,L,Yes
+49,4.5,Accessories,White,1,52,No,Bi-Weekly,Female,Backpack,Iowa,1,Bank Transfer,41,No,49,4.5,Spring,Store Pickup,L,No
+64,3.299999952316284,Accessories,White,1,21,No,Bi-Weekly,Female,Hat,Massachusetts,1,Bank Transfer,29,No,64,3.299999952316284,Fall,Store Pickup,L,No
+99,4,Accessories,White,1,39,No,Every 3 Months,Female,Scarf,South Dakota,1,PayPal,41,No,99,4,Summer,Store Pickup,M,No
+92,3.799999952316284,Accessories,White,1,65,No,Every 3 Months,Male,Hat,Iowa,1,Cash,45,No,92,3.799999952316284,Fall,Store Pickup,S,No
+79,2.9000000953674316,Accessories,White,1,41,Yes,Annually,Male,Scarf,New Jersey,1,Debit Card,48,Yes,79,2.9000000953674316,Winter,Store Pickup,L,No
+42,3.5,Accessories,White,1,67,Yes,Bi-Weekly,Male,Sunglasses,Indiana,1,PayPal,4,Yes,42,3.5,Winter,Store Pickup,M,Yes
+68,4.400000095367432,Accessories,White,1,42,Yes,Every 3 Months,Male,Hat,New Mexico,1,Debit Card,35,Yes,68,4.400000095367432,Summer,Store Pickup,M,No
+37,4.900000095367432,Accessories,White,1,62,Yes,Weekly,Male,Backpack,Louisiana,1,Venmo,20,Yes,37,4.900000095367432,Fall,Store Pickup,S,Yes
+41,3.200000047683716,Accessories,White,1,62,Yes,Weekly,Male,Scarf,New Jersey,1,Bank Transfer,48,Yes,41,3.200000047683716,Fall,Store Pickup,M,Yes
+21,3.0999999046325684,Accessories,Yellow,1,42,No,Every 3 Months,Female,Hat,Texas,1,Credit Card,29,No,21,3.0999999046325684,Summer,Store Pickup,S,No
+37,3,Accessories,Yellow,1,26,No,Every 3 Months,Male,Jewelry,Washington,1,Cash,47,No,37,3,Spring,Store Pickup,L,No
+51,3.700000047683716,Accessories,Yellow,1,32,No,Monthly,Male,Handbag,Hawaii,1,PayPal,46,No,51,3.700000047683716,Fall,Store Pickup,L,No
+80,3.5999999046325684,Accessories,Yellow,1,40,No,Weekly,Female,Jewelry,Alabama,1,Credit Card,17,No,80,3.5999999046325684,Spring,Store Pickup,L,No
+79,3.200000047683716,Accessories,Yellow,1,67,No,Weekly,Male,Scarf,Illinois,1,Credit Card,37,No,79,3.200000047683716,Summer,Store Pickup,S,No
+50,4.199999809265137,Accessories,Yellow,1,69,Yes,Fortnightly,Male,Backpack,Kentucky,1,Debit Card,10,Yes,50,4.199999809265137,Winter,Store Pickup,XL,Yes
+84,3.299999952316284,Accessories,Yellow,1,39,Yes,Monthly,Male,Handbag,Iowa,1,Venmo,43,Yes,84,3.299999952316284,Winter,Store Pickup,L,Yes
+60,2.799999952316284,Accessories,Yellow,1,42,Yes,Monthly,Male,Handbag,Kentucky,1,Cash,7,Yes,60,2.799999952316284,Winter,Store Pickup,S,Yes
+20,3.700000047683716,Accessories,Yellow,1,27,Yes,Quarterly,Male,Jewelry,Illinois,1,PayPal,31,Yes,20,3.700000047683716,Winter,Store Pickup,S,Yes
+63,4.800000190734863,Accessories,Yellow,1,48,Yes,Weekly,Male,Sunglasses,Washington,1,Cash,24,Yes,63,4.800000190734863,Spring,Store Pickup,S,Yes
+87,3.0999999046325684,Clothing,Beige,1,43,No,Every 3 Months,Female,Blouse,Texas,1,Debit Card,15,No,87,3.0999999046325684,Winter,Store Pickup,M,No
+44,3.200000047683716,Clothing,Beige,1,55,No,Monthly,Male,Dress,New Hampshire,1,Cash,31,No,44,3.200000047683716,Spring,Store Pickup,L,No
+61,4.800000190734863,Clothing,Beige,1,19,No,Quarterly,Female,Skirt,Florida,1,PayPal,43,No,61,4.800000190734863,Winter,Store Pickup,L,No
+76,3.9000000953674316,Clothing,Beige,1,56,No,Quarterly,Male,Socks,Arizona,1,Cash,50,No,76,3.9000000953674316,Winter,Store Pickup,S,No
+54,3.4000000953674316,Clothing,Beige,1,47,No,Weekly,Male,Sweater,Colorado,1,Debit Card,6,No,54,3.4000000953674316,Spring,Store Pickup,M,No
+84,4.400000095367432,Clothing,Beige,1,35,Yes,Every 3 Months,Male,Blouse,Colorado,1,Cash,3,Yes,84,4.400000095367432,Spring,Store Pickup,L,No
+90,3,Clothing,Beige,1,50,Yes,Fortnightly,Male,Dress,Iowa,1,Debit Card,36,Yes,90,3,Summer,Store Pickup,M,Yes
+88,2.5999999046325684,Clothing,Beige,1,55,Yes,Fortnightly,Male,Sweater,Texas,1,PayPal,28,Yes,88,2.5999999046325684,Summer,Store Pickup,M,Yes
+98,3.299999952316284,Clothing,Beige,1,31,Yes,Quarterly,Male,Shirt,Florida,1,PayPal,46,Yes,98,3.299999952316284,Fall,Store Pickup,L,Yes
+34,4.199999809265137,Clothing,Black,1,22,No,Annually,Male,Shirt,Hawaii,1,Credit Card,35,No,34,4.199999809265137,Spring,Store Pickup,S,No
+99,5,Clothing,Black,1,45,No,Every 3 Months,Female,Hoodie,Idaho,1,Bank Transfer,11,No,99,5,Summer,Store Pickup,L,No
+36,2.5,Clothing,Black,1,63,No,Monthly,Female,Skirt,Louisiana,1,Cash,42,No,36,2.5,Winter,Store Pickup,L,No
+84,4.300000190734863,Clothing,Black,1,50,No,Monthly,Male,Sweater,Kentucky,1,Credit Card,12,No,84,4.300000190734863,Spring,Store Pickup,S,No
+42,4,Clothing,Black,1,23,No,Weekly,Female,Pants,Montana,1,Bank Transfer,34,No,42,4,Summer,Store Pickup,L,No
+82,4.699999809265137,Clothing,Black,1,48,No,Weekly,Female,Pants,New Mexico,1,Credit Card,35,No,82,4.699999809265137,Winter,Store Pickup,XL,No
+52,3.700000047683716,Clothing,Black,1,19,Yes,Annually,Male,Skirt,Alabama,1,Venmo,41,Yes,52,3.700000047683716,Fall,Store Pickup,M,Yes
+44,4.599999904632568,Clothing,Black,1,40,Yes,Annually,Male,Skirt,Arizona,1,PayPal,26,Yes,44,4.599999904632568,Summer,Store Pickup,L,No
+51,4.5,Clothing,Black,1,29,Yes,Bi-Weekly,Male,Socks,Minnesota,1,Credit Card,3,Yes,51,4.5,Summer,Store Pickup,M,No
+66,3.200000047683716,Clothing,Black,1,37,Yes,Fortnightly,Male,Pants,Massachusetts,1,Cash,20,Yes,66,3.200000047683716,Summer,Store Pickup,M,No
+48,4.099999904632568,Clothing,Black,1,31,Yes,Weekly,Male,Dress,Wyoming,1,Credit Card,14,Yes,48,4.099999904632568,Fall,Store Pickup,S,Yes
+72,4.800000190734863,Clothing,Blue,1,22,No,Annually,Male,Shirt,Missouri,1,Cash,28,No,72,4.800000190734863,Spring,Store Pickup,L,No
+30,2.9000000953674316,Clothing,Blue,1,26,No,Bi-Weekly,Male,Socks,Florida,1,Bank Transfer,26,No,30,2.9000000953674316,Summer,Store Pickup,L,No
+80,2.5,Clothing,Blue,1,33,No,Every 3 Months,Female,Shirt,Alaska,1,Credit Card,39,No,80,2.5,Winter,Store Pickup,XL,No
+48,3.0999999046325684,Clothing,Blue,1,44,No,Fortnightly,Female,T-shirt,Tennessee,1,Venmo,6,No,48,3.0999999046325684,Summer,Store Pickup,M,No
+98,2.799999952316284,Clothing,Blue,1,49,No,Fortnightly,Male,Jeans,Tennessee,1,Debit Card,38,No,98,2.799999952316284,Spring,Store Pickup,L,No
+86,4.900000095367432,Clothing,Blue,1,59,No,Monthly,Female,Skirt,Texas,1,Credit Card,3,No,86,4.900000095367432,Spring,Store Pickup,M,No
+38,2.5,Clothing,Blue,1,67,No,Quarterly,Male,Socks,South Dakota,1,Venmo,35,No,38,2.5,Spring,Store Pickup,L,No
+64,3.0999999046325684,Clothing,Blue,1,51,Yes,Annually,Male,Skirt,Arkansas,1,PayPal,47,Yes,64,3.0999999046325684,Summer,Store Pickup,M,No
+32,4.300000190734863,Clothing,Blue,1,27,Yes,Bi-Weekly,Male,Sweater,Wyoming,1,Cash,50,Yes,32,4.300000190734863,Summer,Store Pickup,S,Yes
+20,4.099999904632568,Clothing,Blue,1,59,Yes,Every 3 Months,Male,T-shirt,Alabama,1,PayPal,3,Yes,20,4.099999904632568,Spring,Store Pickup,XL,No
+35,3.5999999046325684,Clothing,Blue,1,29,Yes,Weekly,Male,Shorts,Virginia,1,Credit Card,4,Yes,35,3.5999999046325684,Summer,Store Pickup,M,Yes
+77,2.700000047683716,Clothing,Brown,1,52,No,Every 3 Months,Female,Blouse,Arizona,1,Credit Card,44,No,77,2.700000047683716,Summer,Store Pickup,L,No
+40,2.700000047683716,Clothing,Brown,1,63,No,Every 3 Months,Male,Dress,Virginia,1,PayPal,29,No,40,2.700000047683716,Spring,Store Pickup,M,No
+21,3.799999952316284,Clothing,Brown,1,47,No,Fortnightly,Male,Shorts,Illinois,1,Venmo,12,No,21,3.799999952316284,Winter,Store Pickup,M,No
+31,2.5999999046325684,Clothing,Brown,1,62,No,Monthly,Male,Hoodie,Oklahoma,1,PayPal,22,No,31,2.5999999046325684,Spring,Store Pickup,M,No
+98,3.299999952316284,Clothing,Brown,1,29,No,Quarterly,Male,Shirt,Washington,1,Bank Transfer,17,No,98,3.299999952316284,Winter,Store Pickup,M,No
+35,3.0999999046325684,Clothing,Brown,1,62,No,Weekly,Male,Skirt,South Carolina,1,Venmo,34,No,35,3.0999999046325684,Spring,Store Pickup,S,No
+40,3.5,Clothing,Brown,1,24,Yes,Annually,Male,Shirt,Texas,1,Debit Card,40,Yes,40,3.5,Summer,Store Pickup,M,Yes
+59,3.0999999046325684,Clothing,Brown,1,43,Yes,Every 3 Months,Male,Hoodie,South Carolina,1,Credit Card,38,Yes,59,3.0999999046325684,Winter,Store Pickup,L,No
+43,4,Clothing,Brown,1,31,Yes,Every 3 Months,Male,Shorts,Missouri,1,Bank Transfer,37,Yes,43,4,Winter,Store Pickup,S,No
+79,4.699999809265137,Clothing,Brown,1,33,Yes,Monthly,Male,Dress,West Virginia,1,Venmo,45,Yes,79,4.699999809265137,Winter,Store Pickup,L,Yes
+31,4.099999904632568,Clothing,Brown,1,22,Yes,Weekly,Male,Hoodie,Michigan,1,Credit Card,35,Yes,31,4.099999904632568,Winter,Store Pickup,M,Yes
+81,2.799999952316284,Clothing,Charcoal,1,23,No,Every 3 Months,Female,Jeans,Arkansas,1,Venmo,48,No,81,2.799999952316284,Fall,Store Pickup,S,No
+41,3.799999952316284,Clothing,Charcoal,1,58,No,Every 3 Months,Female,T-shirt,Georgia,1,Debit Card,10,No,41,3.799999952316284,Fall,Store Pickup,M,No
+74,4.199999809265137,Clothing,Charcoal,1,30,No,Fortnightly,Female,Blouse,Alaska,1,Credit Card,29,No,74,4.199999809265137,Spring,Store Pickup,XL,No
+56,3,Clothing,Charcoal,1,61,No,Quarterly,Male,Dress,Delaware,1,Venmo,34,No,56,3,Summer,Store Pickup,M,No
+64,3.9000000953674316,Clothing,Charcoal,1,41,No,Weekly,Female,Socks,North Dakota,1,Venmo,25,No,64,3.9000000953674316,Spring,Store Pickup,M,No
+26,4.800000190734863,Clothing,Charcoal,1,64,Yes,Annually,Male,Blouse,Colorado,1,Venmo,23,Yes,26,4.800000190734863,Winter,Store Pickup,L,Yes
+78,3.9000000953674316,Clothing,Charcoal,1,36,Yes,Annually,Male,Pants,Colorado,1,Cash,15,Yes,78,3.9000000953674316,Fall,Store Pickup,S,Yes
+32,3.9000000953674316,Clothing,Charcoal,1,57,Yes,Every 3 Months,Male,Blouse,Indiana,1,Cash,6,Yes,32,3.9000000953674316,Winter,Store Pickup,M,Yes
+100,2.700000047683716,Clothing,Charcoal,1,32,Yes,Every 3 Months,Male,Sweater,Iowa,1,Bank Transfer,12,Yes,100,2.700000047683716,Winter,Store Pickup,XL,Yes
+64,2.799999952316284,Clothing,Charcoal,1,40,Yes,Monthly,Male,Pants,Mississippi,1,Credit Card,42,Yes,64,2.799999952316284,Spring,Store Pickup,M,No
+62,4.099999904632568,Clothing,Charcoal,1,31,Yes,Quarterly,Male,Pants,North Carolina,1,Debit Card,22,Yes,62,4.099999904632568,Winter,Store Pickup,M,Yes
+95,4.599999904632568,Clothing,Cyan,1,21,No,Annually,Male,Sweater,Iowa,1,Cash,13,No,95,4.599999904632568,Spring,Store Pickup,XL,No
+50,4.900000095367432,Clothing,Cyan,1,38,No,Bi-Weekly,Male,Sweater,New Hampshire,1,PayPal,25,No,50,4.900000095367432,Fall,Store Pickup,S,No
+90,2.9000000953674316,Clothing,Cyan,1,63,No,Every 3 Months,Female,Skirt,Oregon,1,Venmo,13,No,90,2.9000000953674316,Spring,Store Pickup,L,No
+93,3.9000000953674316,Clothing,Cyan,1,52,No,Every 3 Months,Male,Socks,Montana,1,Debit Card,36,No,93,3.9000000953674316,Spring,Store Pickup,L,No
+71,4.300000190734863,Clothing,Cyan,1,24,No,Every 3 Months,Male,T-shirt,Ohio,1,Credit Card,44,No,71,4.300000190734863,Winter,Store Pickup,L,No
+20,3.9000000953674316,Clothing,Cyan,1,46,No,Fortnightly,Female,Sweater,Oklahoma,1,Cash,14,No,20,3.9000000953674316,Spring,Store Pickup,M,No
+82,4.400000095367432,Clothing,Cyan,1,41,No,Monthly,Female,Pants,Maine,1,Venmo,18,No,82,4.400000095367432,Winter,Store Pickup,M,No
+61,4.5,Clothing,Cyan,1,35,No,Weekly,Female,Sweater,South Dakota,1,Credit Card,21,No,61,4.5,Spring,Store Pickup,M,No
+68,4.300000190734863,Clothing,Cyan,1,27,Yes,Fortnightly,Male,Hoodie,North Carolina,1,Bank Transfer,26,Yes,68,4.300000190734863,Winter,Store Pickup,S,No
+40,2.799999952316284,Clothing,Cyan,1,52,Yes,Monthly,Male,Dress,Tennessee,1,Bank Transfer,18,Yes,40,2.799999952316284,Spring,Store Pickup,XL,Yes
+24,3.9000000953674316,Clothing,Cyan,1,26,Yes,Monthly,Male,Sweater,Illinois,1,Debit Card,24,Yes,24,3.9000000953674316,Summer,Store Pickup,L,Yes
+45,2.799999952316284,Clothing,Cyan,1,35,Yes,Weekly,Male,Jeans,Indiana,1,PayPal,10,Yes,45,2.799999952316284,Summer,Store Pickup,S,Yes
+51,2.5999999046325684,Clothing,Gold,1,59,No,Bi-Weekly,Female,Blouse,Oklahoma,1,Credit Card,23,No,51,2.5999999046325684,Winter,Store Pickup,L,No
+41,4.300000190734863,Clothing,Gold,1,68,No,Every 3 Months,Female,Jeans,Alabama,1,Bank Transfer,36,No,41,4.300000190734863,Fall,Store Pickup,M,No
+62,4.900000095367432,Clothing,Gold,1,41,No,Weekly,Male,T-shirt,Arizona,1,Debit Card,46,No,62,4.900000095367432,Spring,Store Pickup,L,No
+20,4.599999904632568,Clothing,Gold,1,70,Yes,Every 3 Months,Male,Skirt,New Jersey,1,Credit Card,19,Yes,20,4.599999904632568,Spring,Store Pickup,M,Yes
+100,3.5999999046325684,Clothing,Gold,1,54,Yes,Fortnightly,Male,Blouse,Utah,1,Debit Card,50,Yes,100,3.5999999046325684,Fall,Store Pickup,XL,Yes
+38,4.099999904632568,Clothing,Gold,1,57,Yes,Monthly,Male,Skirt,Wisconsin,1,Credit Card,17,Yes,38,4.099999904632568,Spring,Store Pickup,M,Yes
+60,4.300000190734863,Clothing,Gold,1,66,Yes,Quarterly,Male,Hoodie,Alaska,1,Bank Transfer,16,Yes,60,4.300000190734863,Spring,Store Pickup,S,No
+50,2.799999952316284,Clothing,Gray,1,24,No,Every 3 Months,Female,Sweater,Nevada,1,Venmo,10,No,50,2.799999952316284,Winter,Store Pickup,L,No
+63,4,Clothing,Gray,1,36,No,Fortnightly,Male,Hoodie,New Mexico,1,Bank Transfer,1,No,63,4,Fall,Store Pickup,M,No
+32,2.5999999046325684,Clothing,Gray,1,59,No,Monthly,Male,Shirt,New York,1,PayPal,2,No,32,2.5999999046325684,Summer,Store Pickup,M,No
+80,4.699999809265137,Clothing,Gray,1,63,No,Quarterly,Male,Dress,Nebraska,1,PayPal,12,No,80,4.699999809265137,Winter,Store Pickup,L,No
+67,2.700000047683716,Clothing,Gray,1,39,No,Quarterly,Male,Shorts,Nevada,1,Cash,47,No,67,2.700000047683716,Winter,Store Pickup,M,No
+45,2.9000000953674316,Clothing,Gray,1,47,No,Weekly,Female,Shorts,Kansas,1,Bank Transfer,12,No,45,2.9000000953674316,Winter,Store Pickup,M,No
+53,4.599999904632568,Clothing,Gray,1,22,Yes,Every 3 Months,Male,Jeans,California,1,PayPal,45,Yes,53,4.599999904632568,Summer,Store Pickup,XL,No
+88,4.400000095367432,Clothing,Gray,1,53,Yes,Fortnightly,Male,Skirt,Minnesota,1,Debit Card,28,Yes,88,4.400000095367432,Summer,Store Pickup,M,Yes
+94,2.9000000953674316,Clothing,Green,1,65,No,Annually,Female,Shorts,New York,1,PayPal,13,No,94,2.9000000953674316,Fall,Store Pickup,L,No
+45,3,Clothing,Green,1,66,No,Annually,Male,Blouse,Nebraska,1,Debit Card,6,No,45,3,Summer,Store Pickup,L,No
+36,3.5,Clothing,Green,1,47,No,Annually,Male,Shirt,Michigan,1,Venmo,13,No,36,3.5,Fall,Store Pickup,M,No
+53,3.200000047683716,Clothing,Green,1,48,No,Fortnightly,Male,Jeans,Nevada,1,Cash,5,No,53,3.200000047683716,Fall,Store Pickup,L,No
+71,4.5,Clothing,Green,1,58,Yes,Annually,Male,Shorts,Alabama,1,PayPal,3,Yes,71,4.5,Summer,Store Pickup,M,No
+29,3,Clothing,Green,1,29,Yes,Bi-Weekly,Male,Shirt,Georgia,1,Bank Transfer,36,Yes,29,3,Winter,Store Pickup,M,Yes
+78,4.5,Clothing,Green,1,26,Yes,Bi-Weekly,Male,T-shirt,Hawaii,1,Credit Card,20,Yes,78,4.5,Fall,Store Pickup,L,Yes
+76,3.5,Clothing,Green,1,69,Yes,Bi-Weekly,Male,T-shirt,Ohio,1,Venmo,27,Yes,76,3.5,Spring,Store Pickup,L,No
+94,4.599999904632568,Clothing,Green,1,23,Yes,Every 3 Months,Male,Hoodie,Oklahoma,1,Venmo,14,Yes,94,4.599999904632568,Spring,Store Pickup,M,No
+79,4.699999809265137,Clothing,Green,1,37,Yes,Every 3 Months,Male,T-shirt,New Hampshire,1,Venmo,36,Yes,79,4.699999809265137,Fall,Store Pickup,XL,Yes
+38,3.299999952316284,Clothing,Green,1,54,Yes,Quarterly,Male,Pants,Colorado,1,Cash,45,Yes,38,3.299999952316284,Summer,Store Pickup,L,Yes
+68,4.099999904632568,Clothing,Green,1,57,Yes,Quarterly,Male,Shirt,Iowa,1,Credit Card,39,Yes,68,4.099999904632568,Fall,Store Pickup,XL,Yes
+93,4.099999904632568,Clothing,Green,1,63,Yes,Quarterly,Male,Shirt,Virginia,1,Debit Card,30,Yes,93,4.099999904632568,Spring,Store Pickup,XL,No
+24,2.799999952316284,Clothing,Green,1,48,Yes,Quarterly,Male,Skirt,Louisiana,1,Venmo,13,Yes,24,2.799999952316284,Summer,Store Pickup,L,No
+36,4.699999809265137,Clothing,Indigo,1,36,No,Every 3 Months,Male,Pants,Colorado,1,Bank Transfer,9,No,36,4.699999809265137,Fall,Store Pickup,S,No
+43,3.5999999046325684,Clothing,Indigo,1,30,No,Quarterly,Male,Socks,Vermont,1,Venmo,8,No,43,3.5999999046325684,Fall,Store Pickup,S,No
+93,4.800000190734863,Clothing,Indigo,1,35,Yes,Monthly,Male,T-shirt,Delaware,1,Credit Card,11,Yes,93,4.800000190734863,Spring,Store Pickup,M,Yes
+79,2.700000047683716,Clothing,Indigo,1,51,Yes,Quarterly,Male,Blouse,New Hampshire,1,Bank Transfer,12,Yes,79,2.700000047683716,Fall,Store Pickup,S,No
+37,4.900000095367432,Clothing,Indigo,1,22,Yes,Quarterly,Male,Sweater,Louisiana,1,Bank Transfer,12,Yes,37,4.900000095367432,Summer,Store Pickup,M,Yes
+36,4,Clothing,Lavender,1,58,No,Annually,Male,Jeans,Maine,1,Credit Card,28,No,36,4,Winter,Store Pickup,S,No
+79,3.700000047683716,Clothing,Lavender,1,45,No,Fortnightly,Female,Skirt,Arizona,1,Venmo,23,No,79,3.700000047683716,Winter,Store Pickup,M,No
+89,2.799999952316284,Clothing,Lavender,1,28,No,Fortnightly,Male,Skirt,Rhode Island,1,PayPal,6,No,89,2.799999952316284,Fall,Store Pickup,S,No
+26,4.900000095367432,Clothing,Lavender,1,30,No,Quarterly,Female,Blouse,Indiana,1,Bank Transfer,31,No,26,4.900000095367432,Summer,Store Pickup,L,No
+26,3.9000000953674316,Clothing,Lavender,1,20,Yes,Every 3 Months,Male,Skirt,Pennsylvania,1,PayPal,24,Yes,26,3.9000000953674316,Summer,Store Pickup,S,Yes
+41,2.5,Clothing,Lavender,1,18,Yes,Every 3 Months,Male,Socks,New York,1,Cash,20,Yes,41,2.5,Winter,Store Pickup,L,No
+48,3.700000047683716,Clothing,Lavender,1,48,Yes,Fortnightly,Male,Dress,Connecticut,1,Venmo,22,Yes,48,3.700000047683716,Winter,Store Pickup,S,No
+80,4.699999809265137,Clothing,Lavender,1,44,Yes,Fortnightly,Male,Sweater,North Carolina,1,Credit Card,6,Yes,80,4.699999809265137,Spring,Store Pickup,L,No
+21,4.699999809265137,Clothing,Lavender,1,32,Yes,Quarterly,Male,Blouse,Hawaii,1,Cash,41,Yes,21,4.699999809265137,Summer,Store Pickup,L,No
+71,3.200000047683716,Clothing,Magenta,1,59,No,Annually,Female,Blouse,Michigan,1,Venmo,18,No,71,3.200000047683716,Summer,Store Pickup,XL,No
+85,3.299999952316284,Clothing,Magenta,1,36,No,Annually,Female,Socks,North Dakota,1,Cash,12,No,85,3.299999952316284,Fall,Store Pickup,L,No
+23,3.700000047683716,Clothing,Magenta,1,20,No,Annually,Male,Pants,Alabama,1,PayPal,2,No,23,3.700000047683716,Spring,Store Pickup,M,No
+70,2.5999999046325684,Clothing,Magenta,1,32,No,Annually,Male,Sweater,Michigan,1,Debit Card,22,No,70,2.5999999046325684,Summer,Store Pickup,S,No
+60,4.5,Clothing,Magenta,1,62,No,Bi-Weekly,Female,Sweater,South Carolina,1,Bank Transfer,15,No,60,4.5,Spring,Store Pickup,S,No
+91,3.799999952316284,Clothing,Magenta,1,66,No,Every 3 Months,Female,Hoodie,North Dakota,1,Credit Card,1,No,91,3.799999952316284,Fall,Store Pickup,XL,No
+31,4.900000095367432,Clothing,Magenta,1,21,No,Every 3 Months,Female,Sweater,Indiana,1,Bank Transfer,11,No,31,4.900000095367432,Winter,Store Pickup,S,No
+76,4,Clothing,Magenta,1,46,No,Fortnightly,Female,Shirt,Louisiana,1,Debit Card,32,No,76,4,Fall,Store Pickup,M,No
+58,4.400000095367432,Clothing,Magenta,1,61,No,Fortnightly,Male,Jeans,Texas,1,Credit Card,6,No,58,4.400000095367432,Spring,Store Pickup,L,No
+29,3.4000000953674316,Clothing,Magenta,1,34,No,Monthly,Male,Socks,Oklahoma,1,Credit Card,5,No,29,3.4000000953674316,Summer,Store Pickup,L,No
+57,3.5999999046325684,Clothing,Magenta,1,55,No,Quarterly,Female,Hoodie,Virginia,1,Venmo,34,No,57,3.5999999046325684,Summer,Store Pickup,M,No
+36,3.299999952316284,Clothing,Magenta,1,58,No,Quarterly,Female,Skirt,Wyoming,1,Debit Card,40,No,36,3.299999952316284,Summer,Store Pickup,S,No
+69,3.4000000953674316,Clothing,Magenta,1,58,Yes,Annually,Male,Jeans,Indiana,1,Bank Transfer,27,Yes,69,3.4000000953674316,Fall,Store Pickup,L,No
+20,5,Clothing,Magenta,1,65,Yes,Fortnightly,Male,Shorts,Maine,1,Debit Card,33,Yes,20,5,Spring,Store Pickup,M,Yes
+45,2.9000000953674316,Clothing,Magenta,1,28,Yes,Quarterly,Male,T-shirt,California,1,Credit Card,8,Yes,45,2.9000000953674316,Spring,Store Pickup,S,Yes
+71,4.400000095367432,Clothing,Maroon,1,47,No,Annually,Female,Dress,Arizona,1,PayPal,5,No,71,4.400000095367432,Summer,Store Pickup,L,No
+91,4.199999809265137,Clothing,Maroon,1,21,No,Annually,Male,Dress,Washington,1,Debit Card,4,No,91,4.199999809265137,Spring,Store Pickup,M,No
+27,3,Clothing,Maroon,1,28,No,Annually,Male,Hoodie,Kansas,1,Bank Transfer,41,No,27,3,Summer,Store Pickup,XL,No
+60,4.599999904632568,Clothing,Maroon,1,42,No,Bi-Weekly,Female,Shirt,Wyoming,1,Venmo,46,No,60,4.599999904632568,Fall,Store Pickup,M,No
+67,3.4000000953674316,Clothing,Maroon,1,52,No,Bi-Weekly,Female,Socks,Ohio,1,Debit Card,41,No,67,3.4000000953674316,Summer,Store Pickup,S,No
+99,2.700000047683716,Clothing,Maroon,1,42,No,Bi-Weekly,Male,Blouse,New Mexico,1,Venmo,26,No,99,2.700000047683716,Winter,Store Pickup,M,No
+68,4.699999809265137,Clothing,Maroon,1,62,No,Every 3 Months,Female,Hoodie,Mississippi,1,Credit Card,42,No,68,4.699999809265137,Winter,Store Pickup,XL,No
+42,3.4000000953674316,Clothing,Maroon,1,35,No,Every 3 Months,Female,Socks,Connecticut,1,Debit Card,26,No,42,3.4000000953674316,Fall,Store Pickup,M,No
+91,2.799999952316284,Clothing,Maroon,1,54,No,Every 3 Months,Female,Sweater,Illinois,1,Credit Card,43,No,91,2.799999952316284,Spring,Store Pickup,M,No
+37,4.699999809265137,Clothing,Maroon,1,30,No,Monthly,Male,Shorts,Kansas,1,Cash,2,No,37,4.699999809265137,Spring,Store Pickup,M,No
+40,4.5,Clothing,Maroon,1,30,No,Monthly,Male,Skirt,New Mexico,1,Bank Transfer,35,No,40,4.5,Winter,Store Pickup,M,No
+43,3.5999999046325684,Clothing,Maroon,1,58,No,Weekly,Female,Sweater,Illinois,1,Venmo,31,No,43,3.5999999046325684,Fall,Store Pickup,S,No
+40,4.199999809265137,Clothing,Maroon,1,32,No,Weekly,Male,Shorts,New York,1,PayPal,42,No,40,4.199999809265137,Winter,Store Pickup,L,No
+25,2.5999999046325684,Clothing,Maroon,1,52,Yes,Bi-Weekly,Male,Shirt,Wyoming,1,Venmo,46,Yes,25,2.5999999046325684,Fall,Store Pickup,M,Yes
+89,3.5,Clothing,Maroon,1,20,Yes,Fortnightly,Male,Shirt,Oklahoma,1,Debit Card,34,Yes,89,3.5,Winter,Store Pickup,XL,Yes
+53,4.800000190734863,Clothing,Maroon,1,50,Yes,Monthly,Male,Shirt,Delaware,1,Debit Card,22,Yes,53,4.800000190734863,Spring,Store Pickup,XL,No
+59,2.700000047683716,Clothing,Maroon,1,42,Yes,Quarterly,Male,T-shirt,Wisconsin,1,Bank Transfer,22,Yes,59,2.700000047683716,Winter,Store Pickup,L,No
+29,4.400000095367432,Clothing,Maroon,1,68,Yes,Weekly,Male,Skirt,Georgia,1,Bank Transfer,42,Yes,29,4.400000095367432,Winter,Store Pickup,M,Yes
+99,3.700000047683716,Clothing,Olive,1,37,No,Bi-Weekly,Female,Dress,Utah,1,Venmo,17,No,99,3.700000047683716,Summer,Store Pickup,M,No
+45,3.5999999046325684,Clothing,Olive,1,53,No,Bi-Weekly,Female,Sweater,Iowa,1,Credit Card,16,No,45,3.5999999046325684,Winter,Store Pickup,S,No
+53,4.300000190734863,Clothing,Olive,1,26,No,Bi-Weekly,Female,Sweater,Rhode Island,1,Bank Transfer,32,No,53,4.300000190734863,Spring,Store Pickup,L,No
+75,4,Clothing,Olive,1,30,No,Bi-Weekly,Male,Skirt,Indiana,1,Venmo,45,No,75,4,Summer,Store Pickup,L,No
+42,4.199999809265137,Clothing,Olive,1,25,No,Every 3 Months,Female,Shorts,Nebraska,1,Cash,28,No,42,4.199999809265137,Spring,Store Pickup,M,No
+77,3.5,Clothing,Olive,1,30,No,Quarterly,Female,T-shirt,Missouri,1,Credit Card,26,No,77,3.5,Winter,Store Pickup,M,No
+76,3.200000047683716,Clothing,Olive,1,23,No,Quarterly,Male,T-shirt,North Carolina,1,Bank Transfer,19,No,76,3.200000047683716,Fall,Store Pickup,M,No
+26,2.9000000953674316,Clothing,Olive,1,18,Yes,Every 3 Months,Male,Dress,Georgia,1,Bank Transfer,21,Yes,26,2.9000000953674316,Winter,Store Pickup,M,Yes
+68,4.900000095367432,Clothing,Olive,1,30,Yes,Fortnightly,Male,Shorts,Hawaii,1,Bank Transfer,10,Yes,68,4.900000095367432,Winter,Store Pickup,S,Yes
+75,4.199999809265137,Clothing,Orange,1,21,No,Every 3 Months,Female,Socks,Delaware,1,Debit Card,27,No,75,4.199999809265137,Winter,Store Pickup,L,No
+57,2.799999952316284,Clothing,Orange,1,40,No,Every 3 Months,Male,Skirt,Minnesota,1,PayPal,12,No,57,2.799999952316284,Fall,Store Pickup,L,No
+74,4.800000190734863,Clothing,Orange,1,69,No,Every 3 Months,Male,Skirt,New Mexico,1,Credit Card,36,No,74,4.800000190734863,Fall,Store Pickup,L,No
+52,3.799999952316284,Clothing,Orange,1,45,No,Monthly,Female,Pants,Oklahoma,1,PayPal,35,No,52,3.799999952316284,Winter,Store Pickup,L,No
+33,2.9000000953674316,Clothing,Orange,1,61,No,Monthly,Male,Dress,Mississippi,1,Cash,43,No,33,2.9000000953674316,Winter,Store Pickup,L,No
+59,3.799999952316284,Clothing,Orange,1,19,No,Quarterly,Male,Pants,Arkansas,1,Credit Card,7,No,59,3.799999952316284,Fall,Store Pickup,XL,No
+45,3.5999999046325684,Clothing,Orange,1,33,No,Weekly,Female,Dress,Wisconsin,1,Credit Card,4,No,45,3.5999999046325684,Summer,Store Pickup,M,No
+56,2.5999999046325684,Clothing,Orange,1,22,No,Weekly,Female,Sweater,Alabama,1,PayPal,9,No,56,2.5999999046325684,Spring,Store Pickup,L,No
+93,4.199999809265137,Clothing,Orange,1,53,Yes,Every 3 Months,Male,Pants,Delaware,1,PayPal,33,Yes,93,4.199999809265137,Spring,Store Pickup,L,Yes
+92,3.200000047683716,Clothing,Orange,1,49,Yes,Fortnightly,Male,Skirt,Alabama,1,Credit Card,23,Yes,92,3.200000047683716,Fall,Store Pickup,M,Yes
+55,2.700000047683716,Clothing,Orange,1,42,Yes,Monthly,Male,Shirt,Nevada,1,Cash,38,Yes,55,2.700000047683716,Summer,Store Pickup,M,Yes
+68,4.099999904632568,Clothing,Peach,1,21,No,Annually,Male,Dress,Alabama,1,Debit Card,10,No,68,4.099999904632568,Fall,Store Pickup,M,No
+28,2.5999999046325684,Clothing,Peach,1,40,No,Bi-Weekly,Female,Blouse,Delaware,1,Bank Transfer,3,No,28,2.5999999046325684,Spring,Store Pickup,M,No
+84,5,Clothing,Peach,1,26,No,Fortnightly,Female,Blouse,Kentucky,1,PayPal,36,No,84,5,Spring,Store Pickup,M,No
+47,3.200000047683716,Clothing,Peach,1,59,No,Fortnightly,Male,Pants,South Dakota,1,Venmo,10,No,47,3.200000047683716,Fall,Store Pickup,L,No
+55,4.199999809265137,Clothing,Peach,1,41,No,Monthly,Female,Skirt,Arizona,1,Cash,13,No,55,4.199999809265137,Summer,Store Pickup,L,No
+30,2.9000000953674316,Clothing,Peach,1,61,No,Monthly,Male,Shorts,Alabama,1,PayPal,27,No,30,2.9000000953674316,Spring,Store Pickup,M,No
+36,4.900000095367432,Clothing,Peach,1,29,No,Quarterly,Female,Shirt,Texas,1,Bank Transfer,15,No,36,4.900000095367432,Summer,Store Pickup,M,No
+23,4.400000095367432,Clothing,Peach,1,23,No,Quarterly,Male,Shorts,Iowa,1,Venmo,13,No,23,4.400000095367432,Summer,Store Pickup,XL,No
+37,3.200000047683716,Clothing,Peach,1,56,Yes,Annually,Male,Pants,California,1,Debit Card,32,Yes,37,3.200000047683716,Summer,Store Pickup,M,Yes
+72,3.200000047683716,Clothing,Peach,1,31,Yes,Every 3 Months,Male,Jeans,Alabama,1,Bank Transfer,41,Yes,72,3.200000047683716,Winter,Store Pickup,M,Yes
+91,4.900000095367432,Clothing,Peach,1,59,Yes,Monthly,Male,Shirt,Idaho,1,Debit Card,34,Yes,91,4.900000095367432,Winter,Store Pickup,M,Yes
+100,2.700000047683716,Clothing,Peach,1,33,Yes,Monthly,Male,Socks,New Hampshire,1,Credit Card,39,Yes,100,2.700000047683716,Winter,Store Pickup,M,No
+76,3.200000047683716,Clothing,Peach,1,28,Yes,Quarterly,Male,Jeans,California,1,PayPal,47,Yes,76,3.200000047683716,Winter,Store Pickup,M,Yes
+25,4.800000190734863,Clothing,Pink,1,44,No,Annually,Female,Hoodie,Montana,1,Credit Card,45,No,25,4.800000190734863,Spring,Store Pickup,M,No
+47,3.5,Clothing,Pink,1,40,No,Annually,Female,T-shirt,West Virginia,1,Cash,41,No,47,3.5,Spring,Store Pickup,L,No
+41,3.0999999046325684,Clothing,Pink,1,66,No,Bi-Weekly,Male,Blouse,Illinois,1,Cash,23,No,41,3.0999999046325684,Summer,Store Pickup,L,No
+78,3.5999999046325684,Clothing,Pink,1,20,No,Monthly,Female,Shorts,Vermont,1,PayPal,31,No,78,3.5999999046325684,Spring,Store Pickup,M,No
+45,3,Clothing,Pink,1,37,No,Quarterly,Female,Hoodie,Idaho,1,Credit Card,42,No,45,3,Winter,Store Pickup,L,No
+98,3,Clothing,Pink,1,53,No,Weekly,Female,Blouse,New Hampshire,1,Credit Card,31,No,98,3,Fall,Store Pickup,M,No
+23,3,Clothing,Pink,1,25,Yes,Annually,Male,Blouse,New Hampshire,1,Debit Card,22,Yes,23,3,Spring,Store Pickup,S,No
+36,3.9000000953674316,Clothing,Pink,1,43,Yes,Every 3 Months,Male,Shorts,Mississippi,1,Cash,48,Yes,36,3.9000000953674316,Spring,Store Pickup,L,Yes
+41,4.300000190734863,Clothing,Purple,1,46,No,Annually,Female,Dress,Wisconsin,1,Credit Card,12,No,41,4.300000190734863,Fall,Store Pickup,M,No
+98,4,Clothing,Purple,1,62,No,Annually,Male,Jeans,Montana,1,Cash,38,No,98,4,Winter,Store Pickup,S,No
+78,3.700000047683716,Clothing,Purple,1,32,No,Annually,Male,Shirt,Mississippi,1,Cash,32,No,78,3.700000047683716,Winter,Store Pickup,XL,No
+76,4.599999904632568,Clothing,Purple,1,23,No,Bi-Weekly,Female,Hoodie,Connecticut,1,Bank Transfer,19,No,76,4.599999904632568,Spring,Store Pickup,XL,No
+23,3.299999952316284,Clothing,Purple,1,42,No,Fortnightly,Female,Hoodie,Wisconsin,1,Debit Card,33,No,23,3.299999952316284,Winter,Store Pickup,L,No
+91,2.799999952316284,Clothing,Purple,1,33,No,Fortnightly,Male,Blouse,Minnesota,1,Bank Transfer,16,No,91,2.799999952316284,Fall,Store Pickup,S,No
+60,3.4000000953674316,Clothing,Purple,1,41,No,Monthly,Male,Socks,Oklahoma,1,Venmo,27,No,60,3.4000000953674316,Fall,Store Pickup,M,No
+46,2.5999999046325684,Clothing,Purple,1,46,No,Quarterly,Female,Dress,Alabama,1,Cash,20,No,46,2.5999999046325684,Spring,Store Pickup,S,No
+22,2.9000000953674316,Clothing,Purple,1,68,No,Quarterly,Female,Hoodie,Arizona,1,Cash,26,No,22,2.9000000953674316,Summer,Store Pickup,M,No
+20,3.5,Clothing,Purple,1,22,No,Quarterly,Female,Pants,Illinois,1,PayPal,28,No,20,3.5,Summer,Store Pickup,S,No
+59,3.0999999046325684,Clothing,Purple,1,47,Yes,Annually,Male,Pants,Minnesota,1,Debit Card,32,Yes,59,3.0999999046325684,Fall,Store Pickup,M,Yes
+24,3.299999952316284,Clothing,Purple,1,30,Yes,Every 3 Months,Male,Pants,New Jersey,1,Debit Card,17,Yes,24,3.299999952316284,Summer,Store Pickup,M,Yes
+22,2.9000000953674316,Clothing,Purple,1,31,Yes,Fortnightly,Male,Dress,Rhode Island,1,Credit Card,33,Yes,22,2.9000000953674316,Winter,Store Pickup,L,Yes
+46,4.300000190734863,Clothing,Purple,1,27,Yes,Monthly,Male,Shorts,Iowa,1,Venmo,29,Yes,46,4.300000190734863,Summer,Store Pickup,M,Yes
+90,4.400000095367432,Clothing,Red,1,54,No,Annually,Male,T-shirt,New Mexico,1,Bank Transfer,1,No,90,4.400000095367432,Summer,Store Pickup,M,No
+88,3,Clothing,Red,1,60,No,Bi-Weekly,Female,Sweater,Illinois,1,Debit Card,33,No,88,3,Spring,Store Pickup,S,No
+56,4.599999904632568,Clothing,Red,1,42,No,Every 3 Months,Female,Jeans,Idaho,1,PayPal,2,No,56,4.599999904632568,Spring,Store Pickup,M,No
+63,4.800000190734863,Clothing,Red,1,29,No,Every 3 Months,Female,Socks,Pennsylvania,1,Cash,17,No,63,4.800000190734863,Summer,Store Pickup,L,No
+68,4.699999809265137,Clothing,Red,1,31,No,Fortnightly,Male,Shirt,Idaho,1,Cash,23,No,68,4.699999809265137,Winter,Store Pickup,S,No
+79,4,Clothing,Red,1,57,No,Quarterly,Female,Sweater,Nebraska,1,Venmo,24,No,79,4,Spring,Store Pickup,M,No
+20,4.800000190734863,Clothing,Red,1,52,No,Weekly,Female,Hoodie,Rhode Island,1,PayPal,37,No,20,4.800000190734863,Winter,Store Pickup,XL,No
+71,3.5,Clothing,Red,1,70,No,Weekly,Female,T-shirt,Louisiana,1,Venmo,4,No,71,3.5,Winter,Store Pickup,L,No
+86,3.700000047683716,Clothing,Red,1,30,No,Weekly,Male,Pants,Indiana,1,Venmo,21,No,86,3.700000047683716,Summer,Store Pickup,S,No
+27,3.5999999046325684,Clothing,Red,1,40,No,Weekly,Male,Skirt,West Virginia,1,Cash,27,No,27,3.5999999046325684,Winter,Store Pickup,L,No
+20,4.300000190734863,Clothing,Red,1,48,Yes,Annually,Male,Dress,California,1,Debit Card,31,Yes,20,4.300000190734863,Summer,Store Pickup,M,Yes
+28,,Clothing,Red,1,49,Yes,Bi-Weekly,Male,Blouse,Maryland,1,Debit Card,39,Yes,28,,Spring,Store Pickup,M,Yes
+75,4,Clothing,Red,1,69,Yes,Bi-Weekly,Male,T-shirt,Oregon,1,Venmo,47,Yes,75,4,Spring,Store Pickup,S,No
+22,3,Clothing,Red,1,23,Yes,Every 3 Months,Male,Sweater,Idaho,1,PayPal,46,Yes,22,3,Spring,Store Pickup,M,No
+59,2.9000000953674316,Clothing,Red,1,65,Yes,Monthly,Male,Shirt,Indiana,1,Credit Card,33,Yes,59,2.9000000953674316,Spring,Store Pickup,XL,No
+32,3.799999952316284,Clothing,Red,1,41,Yes,Quarterly,Male,Hoodie,Minnesota,1,Debit Card,18,Yes,32,3.799999952316284,Fall,Store Pickup,M,Yes
+79,3,Clothing,Silver,1,57,No,Annually,Female,Sweater,Nebraska,1,Debit Card,36,No,79,3,Spring,Store Pickup,M,No
+48,3.5,Clothing,Silver,1,39,No,Bi-Weekly,Female,Jeans,Tennessee,1,PayPal,13,No,48,3.5,Summer,Store Pickup,M,No
+96,2.5999999046325684,Clothing,Silver,1,42,No,Bi-Weekly,Female,Pants,Virginia,1,Debit Card,26,No,96,2.5999999046325684,Summer,Store Pickup,M,No
+36,4,Clothing,Silver,1,41,No,Bi-Weekly,Male,Pants,Vermont,1,Venmo,15,No,36,4,Winter,Store Pickup,XL,No
+30,2.799999952316284,Clothing,Silver,1,49,No,Fortnightly,Female,Sweater,Idaho,1,Bank Transfer,18,No,30,2.799999952316284,Summer,Store Pickup,L,No
+66,3.299999952316284,Clothing,Silver,1,38,No,Monthly,Female,Shirt,Wyoming,1,Credit Card,40,No,66,3.299999952316284,Winter,Store Pickup,M,No
+62,3.799999952316284,Clothing,Silver,1,56,No,Monthly,Male,Pants,Missouri,1,Bank Transfer,12,No,62,3.799999952316284,Summer,Store Pickup,S,No
+52,4.599999904632568,Clothing,Silver,1,25,No,Quarterly,Female,Socks,Washington,1,PayPal,43,No,52,4.599999904632568,Fall,Store Pickup,S,No
+32,4.5,Clothing,Silver,1,46,Yes,Fortnightly,Male,T-shirt,Wisconsin,1,Bank Transfer,34,Yes,32,4.5,Summer,Store Pickup,XL,Yes
+52,4.099999904632568,Clothing,Silver,1,69,Yes,Monthly,Male,Jeans,Rhode Island,1,Bank Transfer,19,Yes,52,4.099999904632568,Winter,Store Pickup,L,Yes
+74,4.099999904632568,Clothing,Silver,1,19,Yes,Monthly,Male,Shirt,West Virginia,1,Venmo,15,Yes,74,4.099999904632568,Summer,Store Pickup,M,Yes
+100,4.300000190734863,Clothing,Silver,1,52,Yes,Monthly,Male,Socks,Delaware,1,PayPal,8,Yes,100,4.300000190734863,Spring,Store Pickup,M,Yes
+95,3.0999999046325684,Clothing,Silver,1,41,Yes,Quarterly,Male,Blouse,Hawaii,1,Credit Card,46,Yes,95,3.0999999046325684,Spring,Store Pickup,S,No
+32,3.700000047683716,Clothing,Silver,1,69,Yes,Weekly,Male,Dress,Maryland,1,Bank Transfer,43,Yes,32,3.700000047683716,Summer,Store Pickup,M,No
+26,3.700000047683716,Clothing,Silver,1,27,Yes,Weekly,Male,Hoodie,Georgia,1,Cash,4,Yes,26,3.700000047683716,Summer,Store Pickup,S,Yes
+68,4.099999904632568,Clothing,Teal,1,46,No,Bi-Weekly,Male,Socks,Idaho,1,Cash,28,No,68,4.099999904632568,Winter,Store Pickup,S,No
+73,3,Clothing,Teal,1,58,No,Monthly,Female,Blouse,Nevada,1,Debit Card,42,No,73,3,Summer,Store Pickup,L,No
+64,3.299999952316284,Clothing,Teal,1,34,No,Quarterly,Female,Dress,Arkansas,1,Bank Transfer,35,No,64,3.299999952316284,Spring,Store Pickup,M,No
+27,4.900000095367432,Clothing,Teal,1,62,No,Quarterly,Female,Sweater,Delaware,1,Cash,7,No,27,4.900000095367432,Spring,Store Pickup,XL,No
+94,3.299999952316284,Clothing,Teal,1,57,No,Weekly,Female,Dress,Alabama,1,Debit Card,44,No,94,3.299999952316284,Summer,Store Pickup,M,No
+66,4.400000095367432,Clothing,Teal,1,32,No,Weekly,Male,Pants,Georgia,1,Credit Card,30,No,66,4.400000095367432,Summer,Store Pickup,M,No
+74,3.299999952316284,Clothing,Teal,1,27,Yes,Every 3 Months,Male,Blouse,Maine,1,Debit Card,25,Yes,74,3.299999952316284,Fall,Store Pickup,M,Yes
+46,4.400000095367432,Clothing,Teal,1,49,Yes,Every 3 Months,Male,Shorts,Nebraska,1,Venmo,22,Yes,46,4.400000095367432,Summer,Store Pickup,M,No
+98,4.300000190734863,Clothing,Teal,1,50,Yes,Fortnightly,Male,Hoodie,North Carolina,1,Cash,25,Yes,98,4.300000190734863,Spring,Store Pickup,S,No
+81,2.799999952316284,Clothing,Teal,1,64,Yes,Monthly,Male,Skirt,Rhode Island,1,PayPal,8,Yes,81,2.799999952316284,Winter,Store Pickup,M,Yes
+87,3.299999952316284,Clothing,Teal,1,40,Yes,Quarterly,Male,Jeans,North Dakota,1,Credit Card,4,Yes,87,3.299999952316284,Winter,Store Pickup,S,Yes
+38,2.5,Clothing,Turquoise,1,39,No,Annually,Female,T-shirt,Michigan,1,Cash,44,No,38,2.5,Winter,Store Pickup,XL,No
+82,4.699999809265137,Clothing,Turquoise,1,46,No,Annually,Male,Shirt,Indiana,1,Credit Card,9,No,82,4.699999809265137,Fall,Store Pickup,XL,No
+94,4,Clothing,Turquoise,1,56,No,Bi-Weekly,Male,Shorts,Rhode Island,1,Cash,31,No,94,4,Winter,Store Pickup,M,No
+96,2.5999999046325684,Clothing,Turquoise,1,57,No,Bi-Weekly,Male,Shorts,Rhode Island,1,Venmo,31,No,96,2.5999999046325684,Winter,Store Pickup,L,No
+73,4.599999904632568,Clothing,Turquoise,1,32,No,Monthly,Male,Shirt,North Carolina,1,Bank Transfer,32,No,73,4.599999904632568,Winter,Store Pickup,L,No
+29,3.5999999046325684,Clothing,Turquoise,1,43,No,Quarterly,Male,Jeans,Massachusetts,1,Bank Transfer,13,No,29,3.5999999046325684,Summer,Store Pickup,S,No
+52,3.5,Clothing,Turquoise,1,66,No,Weekly,Male,Pants,North Carolina,1,Cash,26,No,52,3.5,Spring,Store Pickup,L,No
+49,3,Clothing,Turquoise,1,50,Yes,Annually,Male,Blouse,Virginia,1,Debit Card,14,Yes,49,3,Summer,Store Pickup,S,Yes
+36,3.200000047683716,Clothing,Turquoise,1,69,Yes,Bi-Weekly,Male,Skirt,Indiana,1,Debit Card,4,Yes,36,3.200000047683716,Spring,Store Pickup,L,No
+36,3.5,Clothing,Turquoise,1,64,Yes,Fortnightly,Male,Socks,Nebraska,1,Venmo,37,Yes,36,3.5,Spring,Store Pickup,M,Yes
+41,3.0999999046325684,Clothing,Violet,1,21,No,Annually,Female,Blouse,South Dakota,1,PayPal,14,No,41,3.0999999046325684,Spring,Store Pickup,M,No
+23,3.700000047683716,Clothing,Violet,1,24,No,Bi-Weekly,Female,Blouse,Kansas,1,Bank Transfer,4,No,23,3.700000047683716,Fall,Store Pickup,S,No
+99,4.300000190734863,Clothing,Violet,1,43,No,Fortnightly,Male,Blouse,Wyoming,1,Debit Card,27,No,99,4.300000190734863,Spring,Store Pickup,L,No
+71,3,Clothing,Violet,1,26,No,Monthly,Female,Shirt,Kentucky,1,Credit Card,33,No,71,3,Fall,Store Pickup,M,No
+60,3.5,Clothing,Violet,1,25,No,Quarterly,Female,Sweater,Wisconsin,1,Cash,41,No,60,3.5,Summer,Store Pickup,M,No
+80,3.799999952316284,Clothing,Violet,1,41,No,Weekly,Male,Sweater,Pennsylvania,1,Cash,32,No,80,3.799999952316284,Winter,Store Pickup,XL,No
+66,2.5999999046325684,Clothing,Violet,1,34,Yes,Fortnightly,Male,Pants,Florida,1,PayPal,10,Yes,66,2.5999999046325684,Spring,Store Pickup,M,No
+96,3.5999999046325684,Clothing,Violet,1,52,Yes,Fortnightly,Male,Skirt,Minnesota,1,Venmo,12,Yes,96,3.5999999046325684,Winter,Store Pickup,L,No
+79,3,Clothing,Violet,1,66,Yes,Monthly,Male,T-shirt,Missouri,1,Bank Transfer,19,Yes,79,3,Winter,Store Pickup,M,No
+45,2.9000000953674316,Clothing,White,1,58,No,Annually,Female,Shirt,Colorado,1,Venmo,50,No,45,2.9000000953674316,Winter,Store Pickup,XL,No
+28,3.0999999046325684,Clothing,White,1,69,No,Annually,Male,Hoodie,Wyoming,1,Credit Card,30,No,28,3.0999999046325684,Spring,Store Pickup,L,No
+87,4.199999809265137,Clothing,White,1,28,No,Bi-Weekly,Female,Blouse,Washington,1,Bank Transfer,47,No,87,4.199999809265137,Summer,Store Pickup,M,No
+100,3.5,Clothing,White,1,69,No,Quarterly,Female,Sweater,Nevada,1,Bank Transfer,14,No,100,3.5,Winter,Store Pickup,S,No
+26,3.5999999046325684,Clothing,White,1,51,No,Weekly,Female,Sweater,Ohio,1,Venmo,41,No,26,3.5999999046325684,Summer,Store Pickup,M,No
+79,2.9000000953674316,Clothing,White,1,18,Yes,Annually,Male,Socks,New Hampshire,1,Credit Card,11,Yes,79,2.9000000953674316,Spring,Store Pickup,M,Yes
+39,2.5999999046325684,Clothing,White,1,31,Yes,Every 3 Months,Male,Jeans,Maryland,1,Credit Card,6,Yes,39,2.5999999046325684,Winter,Store Pickup,M,No
+51,2.5999999046325684,Clothing,White,1,58,Yes,Fortnightly,Male,Hoodie,Ohio,1,Bank Transfer,2,Yes,51,2.5999999046325684,Fall,Store Pickup,L,Yes
+94,3,Clothing,White,1,61,Yes,Quarterly,Male,Blouse,Georgia,1,Cash,48,Yes,94,3,Spring,Store Pickup,M,Yes
+43,2.9000000953674316,Clothing,White,1,57,Yes,Quarterly,Male,Shirt,California,1,Cash,45,Yes,43,2.9000000953674316,Summer,Store Pickup,L,Yes
+73,3.9000000953674316,Clothing,White,1,23,Yes,Weekly,Male,Hoodie,Oklahoma,1,Debit Card,12,Yes,73,3.9000000953674316,Fall,Store Pickup,M,Yes
+71,3.4000000953674316,Clothing,White,1,18,Yes,Weekly,Male,Shirt,Montana,1,Cash,1,Yes,71,3.4000000953674316,Winter,Store Pickup,M,Yes
+38,4.400000095367432,Clothing,Yellow,1,49,No,Annually,Male,Skirt,Kentucky,1,Credit Card,27,No,38,4.400000095367432,Fall,Store Pickup,M,No
+28,4.599999904632568,Clothing,Yellow,1,33,No,Bi-Weekly,Female,Hoodie,Idaho,1,PayPal,12,No,28,4.599999904632568,Winter,Store Pickup,M,No
+20,4.5,Clothing,Yellow,1,52,No,Every 3 Months,Female,Pants,Vermont,1,Venmo,34,No,20,4.5,Summer,Store Pickup,M,No
+98,4.599999904632568,Clothing,Yellow,1,39,No,Fortnightly,Male,Shorts,Missouri,1,Cash,9,No,98,4.599999904632568,Summer,Store Pickup,M,No
+85,3.200000047683716,Clothing,Yellow,1,27,No,Quarterly,Female,Pants,New Jersey,1,Cash,13,No,85,3.200000047683716,Spring,Store Pickup,M,No
+24,2.700000047683716,Clothing,Yellow,1,52,No,Quarterly,Male,T-shirt,Connecticut,1,Credit Card,38,No,24,2.700000047683716,Fall,Store Pickup,M,No
+44,4.300000190734863,Clothing,Yellow,1,20,No,Weekly,Male,Dress,Missouri,1,Debit Card,32,No,44,4.300000190734863,Fall,Store Pickup,M,No
+50,2.9000000953674316,Clothing,Yellow,1,29,Yes,Annually,Male,Socks,Massachusetts,1,Debit Card,23,Yes,50,2.9000000953674316,Summer,Store Pickup,M,Yes
+37,4.900000095367432,Clothing,Yellow,1,27,Yes,Bi-Weekly,Male,Blouse,Illinois,1,Bank Transfer,19,Yes,37,4.900000095367432,Spring,Store Pickup,L,No
+37,3.4000000953674316,Clothing,Yellow,1,67,Yes,Every 3 Months,Male,Dress,Arkansas,1,Cash,31,Yes,37,3.4000000953674316,Winter,Store Pickup,XL,Yes
+78,4,Clothing,Yellow,1,25,Yes,Monthly,Male,Shorts,California,1,PayPal,38,Yes,78,4,Spring,Store Pickup,L,Yes
+51,3.799999952316284,Clothing,Yellow,1,50,Yes,Quarterly,Male,Pants,Rhode Island,1,Bank Transfer,18,Yes,51,3.799999952316284,Summer,Store Pickup,XL,Yes
+50,3.700000047683716,Clothing,Yellow,1,62,Yes,Weekly,Male,Shorts,Illinois,1,Venmo,18,Yes,50,3.700000047683716,Summer,Store Pickup,M,No
+24,2.9000000953674316,Footwear,Beige,1,25,No,Annually,Female,Sandals,West Virginia,1,Bank Transfer,39,No,24,2.9000000953674316,Fall,Store Pickup,L,No
+87,4.199999809265137,Footwear,Beige,1,25,No,Bi-Weekly,Female,Boots,Kansas,1,PayPal,30,No,87,4.199999809265137,Summer,Store Pickup,M,No
+28,2.700000047683716,Footwear,Beige,1,36,No,Monthly,Female,Sandals,Delaware,1,Venmo,25,No,28,2.700000047683716,Fall,Store Pickup,M,No
+26,4.599999904632568,Footwear,Beige,1,39,Yes,Annually,Male,Sandals,New York,1,Venmo,34,Yes,26,4.599999904632568,Summer,Store Pickup,M,Yes
+21,2.700000047683716,Footwear,Beige,1,25,Yes,Monthly,Male,Boots,Connecticut,1,Credit Card,19,Yes,21,2.700000047683716,Summer,Store Pickup,L,Yes
+31,3.0999999046325684,Footwear,Beige,1,70,Yes,Monthly,Male,Shoes,Texas,1,Bank Transfer,2,Yes,31,3.0999999046325684,Spring,Store Pickup,M,Yes
+58,3.200000047683716,Footwear,Black,1,26,No,Every 3 Months,Male,Sandals,North Carolina,1,PayPal,20,No,58,3.200000047683716,Summer,Store Pickup,S,No
+54,2.700000047683716,Footwear,Black,1,61,No,Quarterly,Female,Sandals,Indiana,1,Bank Transfer,23,No,54,2.700000047683716,Spring,Store Pickup,S,No
+40,2.700000047683716,Footwear,Black,1,47,No,Weekly,Female,Shoes,Colorado,1,Debit Card,21,No,40,2.700000047683716,Spring,Store Pickup,L,No
+71,3.9000000953674316,Footwear,Black,1,51,No,Weekly,Male,Shoes,Alaska,1,Venmo,38,No,71,3.9000000953674316,Spring,Store Pickup,M,No
+55,5,Footwear,Black,1,43,Yes,Annually,Male,Boots,Delaware,1,Credit Card,10,Yes,55,5,Spring,Store Pickup,L,Yes
+51,4,Footwear,Blue,1,20,No,Annually,Male,Boots,Maine,1,Venmo,31,No,51,4,Fall,Store Pickup,XL,No
+66,3.0999999046325684,Footwear,Blue,1,43,No,Bi-Weekly,Female,Sandals,North Carolina,1,Cash,31,No,66,3.0999999046325684,Spring,Store Pickup,S,No
+65,2.700000047683716,Footwear,Blue,1,25,No,Fortnightly,Female,Boots,Indiana,1,Bank Transfer,3,No,65,2.700000047683716,Summer,Store Pickup,M,No
+29,3.299999952316284,Footwear,Blue,1,34,No,Quarterly,Male,Boots,South Dakota,1,Venmo,14,No,29,3.299999952316284,Winter,Store Pickup,L,No
+72,,Footwear,Blue,1,19,Yes,Every 3 Months,Male,Sandals,New York,1,Credit Card,24,Yes,72,,Summer,Store Pickup,XL,Yes
+49,2.9000000953674316,Footwear,Brown,1,54,No,Every 3 Months,Female,Shoes,Texas,1,PayPal,3,No,49,2.9000000953674316,Summer,Store Pickup,XL,No
+21,2.700000047683716,Footwear,Brown,1,69,No,Fortnightly,Female,Sandals,Montana,1,Credit Card,48,No,21,2.700000047683716,Spring,Store Pickup,L,No
+95,4.099999904632568,Footwear,Brown,1,49,No,Fortnightly,Female,Sandals,Ohio,1,Venmo,14,No,95,4.099999904632568,Winter,Store Pickup,S,No
+65,4.900000095367432,Footwear,Brown,1,37,Yes,Annually,Male,Sneakers,Rhode Island,1,PayPal,2,Yes,65,4.900000095367432,Winter,Store Pickup,L,Yes
+62,4.800000190734863,Footwear,Brown,1,29,Yes,Monthly,Male,Boots,Tennessee,1,Venmo,44,Yes,62,4.800000190734863,Winter,Store Pickup,L,No
+66,4.5,Footwear,Charcoal,1,46,No,Annually,Female,Sandals,New Mexico,1,Cash,36,No,66,4.5,Spring,Store Pickup,M,No
+63,2.799999952316284,Footwear,Charcoal,1,38,Yes,Every 3 Months,Male,Sandals,New Mexico,1,Venmo,37,Yes,63,2.799999952316284,Fall,Store Pickup,M,Yes
+85,4.800000190734863,Footwear,Charcoal,1,23,Yes,Fortnightly,Male,Sneakers,Oregon,1,Debit Card,44,Yes,85,4.800000190734863,Spring,Store Pickup,M,No
+42,2.5999999046325684,Footwear,Charcoal,1,68,Yes,Monthly,Male,Shoes,Georgia,1,Cash,21,Yes,42,2.5999999046325684,Spring,Store Pickup,M,Yes
+36,2.9000000953674316,Footwear,Cyan,1,58,No,Every 3 Months,Male,Shoes,Louisiana,1,Credit Card,32,No,36,2.9000000953674316,Fall,Store Pickup,M,No
+82,3.4000000953674316,Footwear,Cyan,1,18,No,Fortnightly,Male,Sandals,Tennessee,1,PayPal,30,No,82,3.4000000953674316,Winter,Store Pickup,M,No
+43,4.599999904632568,Footwear,Cyan,1,51,No,Quarterly,Male,Sneakers,Tennessee,1,PayPal,27,No,43,4.599999904632568,Summer,Store Pickup,M,No
+91,3.4000000953674316,Footwear,Cyan,1,53,Yes,Bi-Weekly,Male,Sandals,Ohio,1,Venmo,18,Yes,91,3.4000000953674316,Fall,Store Pickup,S,No
+79,3.0999999046325684,Footwear,Cyan,1,55,Yes,Every 3 Months,Male,Boots,Pennsylvania,1,Cash,43,Yes,79,3.0999999046325684,Spring,Store Pickup,M,No
+98,2.5999999046325684,Footwear,Gold,1,42,No,Every 3 Months,Male,Sandals,Wyoming,1,Bank Transfer,46,No,98,2.5999999046325684,Winter,Store Pickup,M,No
+48,2.9000000953674316,Footwear,Gold,1,63,Yes,Every 3 Months,Male,Shoes,New Jersey,1,Venmo,29,Yes,48,2.9000000953674316,Summer,Store Pickup,M,No
+77,4.900000095367432,Footwear,Gray,1,27,No,Annually,Female,Sandals,Illinois,1,Bank Transfer,46,No,77,4.900000095367432,Fall,Store Pickup,S,No
+83,4.300000190734863,Footwear,Gray,1,30,No,Annually,Male,Sandals,Oklahoma,1,Cash,1,No,83,4.300000190734863,Spring,Store Pickup,M,No
+72,4.900000095367432,Footwear,Gray,1,33,No,Quarterly,Female,Boots,Wisconsin,1,Bank Transfer,28,No,72,4.900000095367432,Fall,Store Pickup,L,No
+66,4.400000095367432,Footwear,Gray,1,35,No,Weekly,Female,Boots,Kentucky,1,Bank Transfer,47,No,66,4.400000095367432,Spring,Store Pickup,L,No
+59,2.700000047683716,Footwear,Gray,1,22,No,Weekly,Female,Sandals,Georgia,1,Cash,9,No,59,2.700000047683716,Summer,Store Pickup,M,No
+55,4,Footwear,Green,1,26,No,Bi-Weekly,Female,Sandals,Kansas,1,Cash,17,No,55,4,Spring,Store Pickup,M,No
+51,2.5999999046325684,Footwear,Green,1,46,No,Fortnightly,Male,Sandals,Illinois,1,Bank Transfer,25,No,51,2.5999999046325684,Spring,Store Pickup,L,No
+94,4.400000095367432,Footwear,Green,1,51,No,Fortnightly,Male,Sandals,Iowa,1,PayPal,25,No,94,4.400000095367432,Winter,Store Pickup,M,No
+60,3.4000000953674316,Footwear,Green,1,40,No,Monthly,Female,Shoes,Montana,1,PayPal,7,No,60,3.4000000953674316,Summer,Store Pickup,XL,No
+81,3.299999952316284,Footwear,Green,1,51,Yes,Fortnightly,Male,Sandals,South Dakota,1,Debit Card,12,Yes,81,3.299999952316284,Fall,Store Pickup,L,Yes
+65,2.700000047683716,Footwear,Indigo,1,58,No,Weekly,Female,Shoes,South Carolina,1,Venmo,36,No,65,2.700000047683716,Spring,Store Pickup,M,No
+93,3.5999999046325684,Footwear,Indigo,1,55,Yes,Fortnightly,Male,Sneakers,Alabama,1,Debit Card,1,Yes,93,3.5999999046325684,Spring,Store Pickup,M,Yes
+31,4,Footwear,Indigo,1,46,Yes,Monthly,Male,Sneakers,Delaware,1,Cash,30,Yes,31,4,Fall,Store Pickup,XL,Yes
+20,3.9000000953674316,Footwear,Lavender,1,56,No,Every 3 Months,Male,Sneakers,Idaho,1,Cash,19,No,20,3.9000000953674316,Summer,Store Pickup,M,No
+64,4,Footwear,Lavender,1,65,No,Fortnightly,Male,Shoes,North Carolina,1,Cash,14,No,64,4,Spring,Store Pickup,L,No
+73,3.5999999046325684,Footwear,Lavender,1,48,Yes,Bi-Weekly,Male,Sandals,Delaware,1,Credit Card,33,Yes,73,3.5999999046325684,Fall,Store Pickup,M,Yes
+98,2.9000000953674316,Footwear,Magenta,1,70,No,Monthly,Female,Sneakers,Michigan,1,Cash,37,No,98,2.9000000953674316,Summer,Store Pickup,M,No
+83,3.799999952316284,Footwear,Magenta,1,61,No,Quarterly,Female,Sandals,Indiana,1,Venmo,31,No,83,3.799999952316284,Fall,Store Pickup,M,No
+59,3.4000000953674316,Footwear,Magenta,1,43,No,Weekly,Male,Sneakers,Wyoming,1,Credit Card,34,No,59,3.4000000953674316,Winter,Store Pickup,XL,No
+84,2.700000047683716,Footwear,Magenta,1,70,Yes,Monthly,Male,Sneakers,Colorado,1,Debit Card,33,Yes,84,2.700000047683716,Spring,Store Pickup,M,Yes
+47,2.5999999046325684,Footwear,Maroon,1,43,Yes,Quarterly,Male,Boots,Mississippi,1,Venmo,28,Yes,47,2.5999999046325684,Summer,Store Pickup,M,Yes
+37,3.4000000953674316,Footwear,Olive,1,61,No,Annually,Male,Shoes,Louisiana,1,Credit Card,6,No,37,3.4000000953674316,Summer,Store Pickup,M,No
+38,4.5,Footwear,Olive,1,48,No,Fortnightly,Female,Shoes,Maine,1,Bank Transfer,7,No,38,4.5,Spring,Store Pickup,XL,No
+92,4.699999809265137,Footwear,Olive,1,64,No,Fortnightly,Male,Sneakers,Illinois,1,Debit Card,44,No,92,4.699999809265137,Fall,Store Pickup,M,No
+27,4,Footwear,Olive,1,36,No,Fortnightly,Male,Sneakers,New Mexico,1,PayPal,12,No,27,4,Spring,Store Pickup,XL,No
+22,5,Footwear,Olive,1,31,No,Monthly,Male,Sandals,New Mexico,1,Venmo,21,No,22,5,Spring,Store Pickup,S,No
+97,3.200000047683716,Footwear,Olive,1,55,Yes,Every 3 Months,Male,Sandals,Minnesota,1,Cash,44,Yes,97,3.200000047683716,Winter,Store Pickup,S,Yes
+74,3,Footwear,Olive,1,31,Yes,Every 3 Months,Male,Sneakers,Georgia,1,Credit Card,30,Yes,74,3,Winter,Store Pickup,M,Yes
+49,2.799999952316284,Footwear,Orange,1,52,No,Every 3 Months,Female,Boots,Oklahoma,1,Debit Card,38,No,49,2.799999952316284,Fall,Store Pickup,L,No
+27,2.5999999046325684,Footwear,Peach,1,42,No,Annually,Male,Shoes,Oklahoma,1,Debit Card,26,No,27,2.5999999046325684,Winter,Store Pickup,S,No
+52,3,Footwear,Peach,1,53,No,Fortnightly,Male,Boots,New Hampshire,1,Debit Card,30,No,52,3,Fall,Store Pickup,XL,No
+99,4.099999904632568,Footwear,Peach,1,57,No,Weekly,Female,Sneakers,Tennessee,1,Credit Card,34,No,99,4.099999904632568,Summer,Store Pickup,XL,No
+90,4.400000095367432,Footwear,Peach,1,51,Yes,Weekly,Male,Sandals,Iowa,1,Cash,25,Yes,90,4.400000095367432,Winter,Store Pickup,M,Yes
+62,2.799999952316284,Footwear,Peach,1,69,Yes,Weekly,Male,Sneakers,Texas,1,Bank Transfer,26,Yes,62,2.799999952316284,Fall,Store Pickup,M,No
+61,3.5,Footwear,Pink,1,44,No,Quarterly,Female,Sneakers,Missouri,1,Venmo,30,No,61,3.5,Spring,Store Pickup,M,No
+50,3.700000047683716,Footwear,Pink,1,52,No,Weekly,Female,Shoes,Maryland,1,Venmo,35,No,50,3.700000047683716,Winter,Store Pickup,M,No
+89,4.599999904632568,Footwear,Pink,1,41,No,Weekly,Male,Shoes,Colorado,1,Credit Card,19,No,89,4.599999904632568,Summer,Store Pickup,L,No
+52,4,Footwear,Pink,1,50,Yes,Every 3 Months,Male,Shoes,Oklahoma,1,PayPal,39,Yes,52,4,Spring,Store Pickup,L,Yes
+99,3,Footwear,Pink,1,54,Yes,Quarterly,Male,Sneakers,Alaska,1,Cash,13,Yes,99,3,Summer,Store Pickup,M,Yes
+53,3.200000047683716,Footwear,Purple,1,25,No,Every 3 Months,Female,Sandals,Alabama,1,Bank Transfer,11,No,53,3.200000047683716,Spring,Store Pickup,M,No
+52,3.5,Footwear,Purple,1,70,No,Every 3 Months,Female,Sandals,Minnesota,1,Debit Card,12,No,52,3.5,Spring,Store Pickup,M,No
+34,4.099999904632568,Footwear,Purple,1,53,Yes,Bi-Weekly,Male,Shoes,Arkansas,1,Bank Transfer,26,Yes,34,4.099999904632568,Fall,Store Pickup,L,Yes
+94,3.299999952316284,Footwear,Purple,1,19,Yes,Bi-Weekly,Male,Shoes,Georgia,1,Bank Transfer,1,Yes,94,3.299999952316284,Spring,Store Pickup,S,Yes
+78,4.900000095367432,Footwear,Purple,1,34,Yes,Quarterly,Male,Boots,Hawaii,1,Debit Card,8,Yes,78,4.900000095367432,Summer,Store Pickup,M,No
+41,3.9000000953674316,Footwear,Red,1,36,Yes,Fortnightly,Male,Sandals,Oregon,1,PayPal,43,Yes,41,3.9000000953674316,Fall,Store Pickup,L,Yes
+72,2.700000047683716,Footwear,Silver,1,42,Yes,Weekly,Male,Sneakers,Ohio,1,Cash,48,Yes,72,2.700000047683716,Summer,Store Pickup,M,No
+92,4.800000190734863,Footwear,Teal,1,21,Yes,Annually,Male,Shoes,Virginia,1,Cash,37,Yes,92,4.800000190734863,Winter,Store Pickup,M,Yes
+54,3.4000000953674316,Footwear,Teal,1,47,Yes,Quarterly,Male,Boots,Massachusetts,1,Venmo,27,Yes,54,3.4000000953674316,Fall,Store Pickup,M,Yes
+65,,Footwear,Teal,1,64,Yes,Weekly,Male,Shoes,South Carolina,1,Bank Transfer,27,Yes,65,,Summer,Store Pickup,L,Yes
+20,2.5999999046325684,Footwear,Turquoise,1,68,Yes,Monthly,Male,Shoes,Connecticut,1,Venmo,13,Yes,20,2.5999999046325684,Winter,Store Pickup,L,Yes
+76,3.5999999046325684,Footwear,Violet,1,39,No,Annually,Male,Boots,North Dakota,1,Cash,5,No,76,3.5999999046325684,Fall,Store Pickup,S,No
+77,2.5,Footwear,Violet,1,69,No,Bi-Weekly,Male,Boots,Ohio,1,Debit Card,5,No,77,2.5,Summer,Store Pickup,M,No
+82,3.5999999046325684,Footwear,Violet,1,62,No,Quarterly,Female,Boots,Oregon,1,Credit Card,43,No,82,3.5999999046325684,Spring,Store Pickup,M,No
+38,4.099999904632568,Footwear,Violet,1,38,Yes,Every 3 Months,Male,Boots,Minnesota,1,Venmo,8,Yes,38,4.099999904632568,Summer,Store Pickup,M,Yes
+31,4.900000095367432,Footwear,Violet,1,64,Yes,Fortnightly,Male,Boots,Illinois,1,Bank Transfer,9,Yes,31,4.900000095367432,Fall,Store Pickup,M,Yes
+68,4.099999904632568,Footwear,Violet,1,55,Yes,Fortnightly,Male,Boots,Washington,1,Cash,27,Yes,68,4.099999904632568,Summer,Store Pickup,S,Yes
+49,3.200000047683716,Footwear,White,1,60,No,Every 3 Months,Female,Shoes,Pennsylvania,1,Cash,25,No,49,3.200000047683716,Spring,Store Pickup,M,No
+90,3.0999999046325684,Footwear,White,1,46,No,Every 3 Months,Male,Shoes,Colorado,1,Credit Card,7,No,90,3.0999999046325684,Fall,Store Pickup,M,No
+63,4.5,Footwear,White,1,56,No,Monthly,Female,Shoes,Iowa,1,Venmo,21,No,63,4.5,Spring,Store Pickup,S,No
+37,4.5,Footwear,White,1,23,Yes,Annually,Male,Shoes,Montana,1,Venmo,36,Yes,37,4.5,Summer,Store Pickup,XL,Yes
+59,3.5,Footwear,White,1,55,Yes,Bi-Weekly,Male,Shoes,North Dakota,1,Bank Transfer,3,Yes,59,3.5,Spring,Store Pickup,M,Yes
+98,4.199999809265137,Footwear,Yellow,1,31,No,Annually,Female,Sandals,Vermont,1,PayPal,9,No,98,4.199999809265137,Spring,Store Pickup,S,No
+46,2.799999952316284,Footwear,Yellow,1,70,No,Quarterly,Male,Boots,Nebraska,1,Bank Transfer,25,No,46,2.799999952316284,Fall,Store Pickup,M,No
+100,4,Footwear,Yellow,1,24,Yes,Bi-Weekly,Male,Sneakers,Arizona,1,Cash,35,Yes,100,4,Fall,Store Pickup,M,Yes
+64,4.099999904632568,Footwear,Yellow,1,63,Yes,Monthly,Male,Sneakers,Missouri,1,Debit Card,35,Yes,64,4.099999904632568,Fall,Store Pickup,L,Yes
+76,4.599999904632568,Footwear,Yellow,1,51,Yes,Monthly,Male,Sneakers,Washington,1,Debit Card,8,Yes,76,4.599999904632568,Spring,Store Pickup,L,No
+59,2.799999952316284,Outerwear,Beige,1,49,No,Bi-Weekly,Female,Jacket,North Dakota,1,Venmo,7,No,59,2.799999952316284,Fall,Store Pickup,M,No
+87,4.800000190734863,Outerwear,Beige,1,57,No,Quarterly,Male,Coat,New Hampshire,1,PayPal,31,No,87,4.800000190734863,Fall,Store Pickup,M,No
+49,4.099999904632568,Outerwear,Beige,1,34,No,Weekly,Male,Jacket,Utah,1,Credit Card,1,No,49,4.099999904632568,Fall,Store Pickup,M,No
+70,4.199999809265137,Outerwear,Beige,1,18,Yes,Fortnightly,Male,Coat,Mississippi,1,PayPal,16,Yes,70,4.199999809265137,Spring,Store Pickup,M,No
+48,2.700000047683716,Outerwear,Beige,1,30,Yes,Quarterly,Male,Coat,Missouri,1,PayPal,25,Yes,48,2.700000047683716,Fall,Store Pickup,M,Yes
+37,3.9000000953674316,Outerwear,Black,1,31,No,Fortnightly,Male,Coat,Idaho,1,Venmo,10,No,37,3.9000000953674316,Summer,Store Pickup,M,No
+22,4.400000095367432,Outerwear,Black,1,27,Yes,Weekly,Male,Coat,Connecticut,1,PayPal,7,Yes,22,4.400000095367432,Winter,Store Pickup,XL,No
+89,3.700000047683716,Outerwear,Blue,1,69,No,Quarterly,Female,Jacket,Ohio,1,Credit Card,19,No,89,3.700000047683716,Fall,Store Pickup,M,No
+95,3.700000047683716,Outerwear,Blue,1,70,Yes,Weekly,Male,Coat,Massachusetts,1,Cash,9,Yes,95,3.700000047683716,Summer,Store Pickup,S,Yes
+80,4.699999809265137,Outerwear,Charcoal,1,47,No,Monthly,Female,Coat,California,1,Venmo,1,No,80,4.699999809265137,Summer,Store Pickup,S,No
+96,4.300000190734863,Outerwear,Cyan,1,49,No,Every 3 Months,Male,Jacket,Hawaii,1,PayPal,39,No,96,4.300000190734863,Fall,Store Pickup,M,No
+66,3.700000047683716,Outerwear,Gray,1,50,No,Weekly,Female,Coat,Montana,1,Venmo,1,No,66,3.700000047683716,Spring,Store Pickup,L,No
+85,4.300000190734863,Outerwear,Gray,1,55,Yes,Every 3 Months,Male,Coat,New York,1,Debit Card,40,Yes,85,4.300000190734863,Summer,Store Pickup,L,Yes
+33,4.400000095367432,Outerwear,Gray,1,45,Yes,Monthly,Male,Coat,Connecticut,1,Debit Card,49,Yes,33,4.400000095367432,Winter,Store Pickup,L,Yes
+35,4.400000095367432,Outerwear,Green,1,67,Yes,Every 3 Months,Male,Coat,Alaska,1,PayPal,9,Yes,35,4.400000095367432,Winter,Store Pickup,S,Yes
+22,2.9000000953674316,Outerwear,Green,1,18,Yes,Weekly,Male,Jacket,Florida,1,Debit Card,16,Yes,22,2.9000000953674316,Fall,Store Pickup,M,Yes
+90,5,Outerwear,Indigo,1,40,Yes,Fortnightly,Male,Coat,Montana,1,Cash,21,Yes,90,5,Winter,Store Pickup,L,Yes
+92,3,Outerwear,Lavender,1,49,No,Every 3 Months,Female,Jacket,Hawaii,1,Bank Transfer,38,No,92,3,Spring,Store Pickup,M,No
+84,4.5,Outerwear,Lavender,1,39,No,Fortnightly,Male,Coat,Connecticut,1,Venmo,21,No,84,4.5,Spring,Store Pickup,S,No
+40,4.199999809265137,Outerwear,Magenta,1,41,No,Annually,Male,Jacket,Utah,1,Venmo,6,No,40,4.199999809265137,Winter,Store Pickup,S,No
+37,3.200000047683716,Outerwear,Magenta,1,48,Yes,Bi-Weekly,Male,Coat,Montana,1,Credit Card,25,Yes,37,3.200000047683716,Winter,Store Pickup,XL,Yes
+70,4.400000095367432,Outerwear,Magenta,1,26,Yes,Fortnightly,Male,Jacket,South Dakota,1,Debit Card,40,Yes,70,4.400000095367432,Fall,Store Pickup,M,Yes
+84,4.400000095367432,Outerwear,Maroon,1,44,Yes,Every 3 Months,Male,Jacket,Illinois,1,Debit Card,16,Yes,84,4.400000095367432,Fall,Store Pickup,S,Yes
+100,2.700000047683716,Outerwear,Olive,1,59,Yes,Every 3 Months,Male,Coat,Montana,1,PayPal,30,Yes,100,2.700000047683716,Spring,Store Pickup,S,No
+42,3.9000000953674316,Outerwear,Olive,1,34,Yes,Every 3 Months,Male,Coat,West Virginia,1,PayPal,29,Yes,42,3.9000000953674316,Spring,Store Pickup,L,Yes
+39,3.5999999046325684,Outerwear,Orange,1,63,No,Fortnightly,Female,Jacket,Colorado,1,Venmo,6,No,39,3.5999999046325684,Summer,Store Pickup,L,No
+23,3.5999999046325684,Outerwear,Orange,1,28,Yes,Every 3 Months,Male,Coat,South Carolina,1,Cash,30,Yes,23,3.5999999046325684,Summer,Store Pickup,S,No
+59,2.9000000953674316,Outerwear,Peach,1,34,No,Every 3 Months,Female,Jacket,North Dakota,1,Bank Transfer,11,No,59,2.9000000953674316,Fall,Store Pickup,M,No
+66,2.799999952316284,Outerwear,Peach,1,59,No,Monthly,Male,Jacket,Hawaii,1,Venmo,43,No,66,2.799999952316284,Winter,Store Pickup,M,No
+68,4.599999904632568,Outerwear,Peach,1,59,Yes,Bi-Weekly,Male,Coat,Oregon,1,Bank Transfer,42,Yes,68,4.599999904632568,Spring,Store Pickup,L,No
+73,3.799999952316284,Outerwear,Red,1,55,No,Annually,Female,Jacket,Oklahoma,1,Cash,21,No,73,3.799999952316284,Winter,Store Pickup,M,No
+100,3.0999999046325684,Outerwear,Red,1,22,No,Fortnightly,Female,Coat,Hawaii,1,Credit Card,42,No,100,3.0999999046325684,Fall,Store Pickup,L,No
+96,4,Outerwear,Red,1,49,Yes,Bi-Weekly,Male,Coat,Mississippi,1,PayPal,11,Yes,96,4,Winter,Store Pickup,M,No
+68,4.400000095367432,Outerwear,Red,1,41,Yes,Quarterly,Male,Jacket,Iowa,1,Credit Card,22,Yes,68,4.400000095367432,Winter,Store Pickup,L,Yes
+86,4.300000190734863,Outerwear,Silver,1,29,No,Fortnightly,Female,Coat,Maryland,1,Credit Card,45,No,86,4.300000190734863,Summer,Store Pickup,S,No
+93,4.599999904632568,Outerwear,Silver,1,45,Yes,Fortnightly,Male,Coat,Georgia,1,PayPal,38,Yes,93,4.599999904632568,Summer,Store Pickup,L,Yes
+39,4.599999904632568,Outerwear,Teal,1,48,No,Quarterly,Male,Coat,Michigan,1,Bank Transfer,42,No,39,4.599999904632568,Spring,Store Pickup,L,No
+81,5,Outerwear,Turquoise,1,65,No,Bi-Weekly,Female,Jacket,Washington,1,Credit Card,1,No,81,5,Spring,Store Pickup,S,No
+68,4.400000095367432,Outerwear,Turquoise,1,63,No,Fortnightly,Female,Jacket,Missouri,1,Debit Card,1,No,68,4.400000095367432,Fall,Store Pickup,M,No
+77,4.900000095367432,Outerwear,Turquoise,1,40,Yes,Quarterly,Male,Jacket,Colorado,1,Bank Transfer,2,Yes,77,4.900000095367432,Spring,Store Pickup,L,Yes
+91,2.5,Outerwear,Violet,1,53,No,Bi-Weekly,Female,Coat,Idaho,1,Cash,5,No,91,2.5,Summer,Store Pickup,M,No
+75,4.699999809265137,Outerwear,Violet,1,68,No,Every 3 Months,Female,Coat,Hawaii,1,Bank Transfer,5,No,75,4.699999809265137,Summer,Store Pickup,S,No
+57,3.700000047683716,Outerwear,Violet,1,64,No,Every 3 Months,Male,Coat,Idaho,1,Credit Card,48,No,57,3.700000047683716,Summer,Store Pickup,M,No
+87,3.0999999046325684,Outerwear,Violet,1,25,No,Every 3 Months,Male,Coat,Kansas,1,Bank Transfer,17,No,87,3.0999999046325684,Spring,Store Pickup,M,No
+26,2.5999999046325684,Outerwear,Violet,1,60,No,Monthly,Female,Jacket,Oklahoma,1,Credit Card,13,No,26,2.5999999046325684,Winter,Store Pickup,L,No
+48,4,Outerwear,Violet,1,49,Yes,Weekly,Male,Coat,Wyoming,1,Debit Card,49,Yes,48,4,Winter,Store Pickup,M,Yes
+95,3.799999952316284,Outerwear,White,1,49,Yes,Annually,Male,Coat,Florida,1,Venmo,30,Yes,95,3.799999952316284,Fall,Store Pickup,M,Yes
+64,4.400000095367432,Outerwear,White,1,21,Yes,Fortnightly,Male,Coat,West Virginia,1,Debit Card,17,Yes,64,4.400000095367432,Summer,Store Pickup,M,Yes
+52,,Outerwear,White,1,46,Yes,Monthly,Male,Coat,West Virginia,1,Venmo,12,Yes,52,,Spring,Store Pickup,S,No
+37,4.099999904632568,Outerwear,Yellow,1,41,No,Quarterly,Male,Coat,Connecticut,1,Cash,43,No,37,4.099999904632568,Summer,Store Pickup,M,No
+94,3.9000000953674316,Outerwear,Yellow,1,36,No,Quarterly,Male,Coat,Montana,1,PayPal,10,No,94,3.9000000953674316,Fall,Store Pickup,XL,No
+100,4.800000190734863,Outerwear,Yellow,1,69,No,Quarterly,Male,Jacket,South Carolina,1,PayPal,37,No,100,4.800000190734863,Fall,Store Pickup,S,No
+74,3.0999999046325684,Outerwear,Yellow,1,24,Yes,Weekly,Male,Jacket,Maine,1,Bank Transfer,3,Yes,74,3.0999999046325684,Summer,Store Pickup,M,Yes
