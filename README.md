@@ -208,18 +208,6 @@ Execute all notebook cells to reproduce the analysis.
 - Interactive Streamlit Dashboard
 
 
-# 📚 Skills Demonstrated
-
-- Data Cleaning
-- Exploratory Data Analysis
-- Data Visualization
-- SQL Queries
-- Dashboard Development
-- Business Intelligence
-- Data Storytelling
-
----
-
 # ⭐ Business Value
 
 This project demonstrates how data analytics can help retail businesses:
