@@ -169,35 +169,7 @@ Customer_Shopping_Behavior_Analysis/
 │   └── dashboard.png
 │
 └── README.md
-```
 
----
-
-# 🚀 How to Run
-
-### 1 Clone Repository
-
-```bash
-git clone https://github.com/avankumar23/Customer_Shopping_Behavior_Analysis-.git
-```
-
-### 2 Install Dependencies
-
-```bash
-pip install pandas numpy matplotlib seaborn
-```
-
-### 3 Open Jupyter Notebook
-
-```bash
-jupyter notebook
-```
-
-### 4 Run the Analysis
-
-Execute all notebook cells to reproduce the analysis.
-
----
 
 # 📊 Future Improvements
 
